@@ -2,3 +2,4 @@ __pycache__/
 .artifacts/
 .backup/
 .venv/
+.env

@@ -1,0 +1,5 @@
+﻿dataset,variant,source,error_type,count
+synthetic,b1_jsonld,synthetic-shop.local,missing_entity,995
+synthetic,b1_jsonld,synthetic-shop.local,unexpected_entity,140
+synthetic,b2_css,synthetic-shop.local,missing_entity,960
+synthetic,b2_css,synthetic-shop.local,unexpected_entity,960
