@@ -1,0 +1,37 @@
+{
+  "seed": 20260928,
+  "clean_pages": 20,
+  "clean_entities": 100,
+  "robustness_pages": 200,
+  "robustness_entities": 1000,
+  "page_category_counts": {
+    "construction_instruments": 10,
+    "stationery": 4,
+    "electronics": 4,
+    "other": 2
+  },
+  "page_category_shares": {
+    "construction_instruments": 0.5,
+    "stationery": 0.2,
+    "electronics": 0.2,
+    "other": 0.1
+  },
+  "mutation_axis_counts": {
+    "class_rename": 60,
+    "wrapper_insert": 60,
+    "field_reorder": 40,
+    "subtree_relocate": 40
+  },
+  "templates": {
+    "jsonld_cards": 2,
+    "microdata_cards": 2,
+    "plain_cards": 2,
+    "embedded_state": 2,
+    "detail_grid": 2,
+    "table_listing": 2,
+    "semantic_articles": 2,
+    "data_attrs": 2,
+    "nested_cards": 2,
+    "mixed_markup": 2
+  }
+}

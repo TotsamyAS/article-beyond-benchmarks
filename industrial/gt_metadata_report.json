@@ -1,0 +1,1625 @@
+{
+  "total_products": 6317,
+  "pages_with_products": 219,
+  "by_source": {},
+  "status": "metadata_update",
+  "generated_at": "2026-09-29T07:09:57.257781+00:00",
+  "changes": {
+    "added_rows": 0,
+    "filled_cells": 0,
+    "groundtruth_rows": 6337
+  },
+  "workbook": "D:\\Pet_Codes\\science\\article-price-tracker\\industrial\\dind.xlsx",
+  "workbook_sha256_before": "249240011c3d059ec9696d54e3585ecea92068bf7238db51173f835a116983cd",
+  "metadata": {
+    "query_cells_filled": 3989,
+    "confirmed_empty_rows": 20,
+    "confirmed_unavailable_rows": 160,
+    "audit_cells_updated": 473,
+    "pages": [
+      {
+        "html_file": "html/bigam.ru-run-070e415b.html",
+        "source": "bigam.ru",
+        "query": "дрель",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/bigam.ru-run-1a7ee5bc.html",
+        "source": "bigam.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/bigam.ru-run-25730645.html",
+        "source": "bigam.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/bigam.ru-run-401e5667.html",
+        "source": "bigam.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/bigam.ru-run-4671429e.html",
+        "source": "bigam.ru",
+        "query": "пкалупдртдвлупат",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/bigam.ru-run-4d6dca4d.html",
+        "source": "bigam.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/bigam.ru-run-5ce6eea7.html",
+        "source": "bigam.ru",
+        "query": "дрель makita",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/bigam.ru-run-8ce98d27.html",
+        "source": "bigam.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/bigam.ru-run-a4614cf8.html",
+        "source": "bigam.ru",
+        "query": "шуруповерт зубр",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/bigam.ru-run-c32f0a7d.html",
+        "source": "bigam.ru",
+        "query": "дрель makita",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/bigam.ru-run-d479cc88.html",
+        "source": "bigam.ru",
+        "query": "дрель makita",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/bigam.ru-run-e6a01e2a.html",
+        "source": "bigam.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/bigam.ru-run-f440dfcf.html",
+        "source": "bigam.ru",
+        "query": "шуруповёрт",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/chipdip.ru-run-none1.html",
+        "source": "chipdip.ru",
+        "query": "aaa",
+        "query_source": "page_url",
+        "query_url": "https://www.chipdip.ru/search?searchtext=aaa"
+      },
+      {
+        "html_file": "html/chipdip.ru-run-4d6dca4d.html",
+        "source": "chipdip.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/chipdip.ru-run-8f5bbe64.html",
+        "source": "chipdip.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/chipdip.ru-run-90f03fab.html",
+        "source": "chipdip.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/chipdip.ru-run-c0047e44.html",
+        "source": "chipdip.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/chipdip.ru-run-dd921485.html",
+        "source": "chipdip.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/chipdip.ru-run-e78490cf.html",
+        "source": "chipdip.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/citilink.ru-run-none1.html",
+        "source": "citilink.ru",
+        "query": "монитор full hd",
+        "query_source": "page_url",
+        "query_url": "https://www.citilink.ru/search/?text=%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80+full+hd"
+      },
+      {
+        "html_file": "html/citilink.ru-run-none2.html",
+        "source": "citilink.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.citilink.ru/search/?text=ps+5"
+      },
+      {
+        "html_file": "html/citilink.ru-run-none3.html",
+        "source": "citilink.ru",
+        "query": "микроволновка",
+        "query_source": "page_url",
+        "query_url": "https://www.citilink.ru/search/?text=%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0"
+      },
+      {
+        "html_file": "html/citilink.ru-run-none4.html",
+        "source": "citilink.ru",
+        "query": "электрическая зубная щётка",
+        "query_source": "page_url",
+        "query_url": "https://www.citilink.ru/search/?text=%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D0%B7%D1%83%D0%B1%D0%BD%D0%B0%D1%8F+%D1%89%D1%91%D1%82%D0%BA%D0%B0"
+      },
+      {
+        "html_file": "html/citilink.ru-run-none5.html",
+        "source": "citilink.ru",
+        "query": "электрическая зубная щётка",
+        "query_source": "page_url",
+        "query_url": "https://www.citilink.ru/search/?text=%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D0%B7%D1%83%D0%B1%D0%BD%D0%B0%D1%8F+%D1%89%D1%91%D1%82%D0%BA%D0%B0"
+      },
+      {
+        "html_file": "html/citilink.ru-run-none6.html",
+        "source": "citilink.ru",
+        "query": "ноутбук 16 gb ram",
+        "query_source": "page_url",
+        "query_url": "https://www.citilink.ru/search/?text=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA+16+gb+ram"
+      },
+      {
+        "html_file": "html/citilink.ru-run-none7.html",
+        "source": "citilink.ru",
+        "query": "электрическая зубная щётка",
+        "query_source": "page_url",
+        "query_url": "https://www.citilink.ru/search/?text=%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D0%B7%D1%83%D0%B1%D0%BD%D0%B0%D1%8F+%D1%89%D1%91%D1%82%D0%BA%D0%B0"
+      },
+      {
+        "html_file": "html/citilink.ru-run-none8.html",
+        "source": "citilink.ru",
+        "query": "электрическая зубная щётка",
+        "query_source": "page_url",
+        "query_url": "https://www.citilink.ru/search/?text=%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D0%B7%D1%83%D0%B1%D0%BD%D0%B0%D1%8F+%D1%89%D1%91%D1%82%D0%BA%D0%B0"
+      },
+      {
+        "html_file": "html/citilink.ru-run-none9.html",
+        "source": "citilink.ru",
+        "query": "дрель безударная",
+        "query_source": "page_url",
+        "query_url": "https://www.citilink.ru/search/?text=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D0%B1%D0%B5%D0%B7%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/citilink.ru-run-none10.html",
+        "source": "citilink.ru",
+        "query": "дрель безударная",
+        "query_source": "page_url",
+        "query_url": "https://www.citilink.ru/search/?text=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D0%B1%D0%B5%D0%B7%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/citilink.ru-run-none11.html",
+        "source": "citilink.ru",
+        "query": "бензопила",
+        "query_source": "page_url",
+        "query_url": "https://www.citilink.ru/search/?text=%D0%B1%D0%B5%D0%BD%D0%B7%D0%BE%D0%BF%D0%B8%D0%BB%D0%B0"
+      },
+      {
+        "html_file": "html/citilink.ru-run-none12.html",
+        "source": "citilink.ru",
+        "query": "мышь проводная",
+        "query_source": "page_url",
+        "query_url": "https://www.citilink.ru/search/?text=%D0%BC%D1%8B%D1%88%D1%8C+%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/citilink.ru-run-none13.html",
+        "source": "citilink.ru",
+        "query": "мышь проводная",
+        "query_source": "page_url",
+        "query_url": "https://www.citilink.ru/search/?text=%D0%BC%D1%8B%D1%88%D1%8C+%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/citilink.ru-run-none14.html",
+        "source": "citilink.ru",
+        "query": "канистра 20л",
+        "query_source": "page_url",
+        "query_url": "https://www.citilink.ru/search/?text=%D0%BA%D0%B0%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0+20%D0%BB"
+      },
+      {
+        "html_file": "html/cnc.su-run-3e95d0c6.html",
+        "source": "cnc.su",
+        "query": "выаиырифл",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/cnc.su-run-76db53a6.html",
+        "source": "cnc.su",
+        "query": "втулка",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/cnc.su-run-7b56c8dd.html",
+        "source": "cnc.su",
+        "query": "втулка",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/cnc.su-run-7efc742d.html",
+        "source": "cnc.su",
+        "query": "втулка",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none1.html",
+        "source": "dns-shop.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=ps+5&category=17a8978216404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none2.html",
+        "source": "dns-shop.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=ps+5&category=17a8978216404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none3.html",
+        "source": "dns-shop.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=ps+5"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none4.html",
+        "source": "dns-shop.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=ps+5&category=17a8978216404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none5.html",
+        "source": "dns-shop.ru",
+        "query": "монитор full hd",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80+full+hd"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none6.html",
+        "source": "dns-shop.ru",
+        "query": "монитор full hd",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/catalog/17a8943716404e77/monitory/?q=%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80+full+hd&stock=now-today-tomorrow-later-out_of_stock&order=popular"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none7.html",
+        "source": "dns-shop.ru",
+        "query": "консоль ps 4",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C+ps+4&category=17a8978216404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none8.html",
+        "source": "dns-shop.ru",
+        "query": "консоль ps 4",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C+ps+4&category=17a8978216404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none9.html",
+        "source": "dns-shop.ru",
+        "query": "гйемпад dualchock 4",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=%D0%B3%D0%B9%D0%B5%D0%BC%D0%BF%D0%B0%D0%B4+dualchock+4&category=eeb71609318f51e7"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none10.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none11.html",
+        "source": "dns-shop.ru",
+        "query": "ps 4",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=ps+4&category=17a8978216404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none12.html",
+        "source": "dns-shop.ru",
+        "query": "ps 4 консоль",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=ps+4+%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C&category=17a8978216404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none13.html",
+        "source": "dns-shop.ru",
+        "query": "nintendo switch 2",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=nintendo+switch+2&category=17a893cd16404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none14.html",
+        "source": "dns-shop.ru",
+        "query": "ноутбук",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA&category=17a892f816404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none15.html",
+        "source": "dns-shop.ru",
+        "query": "ноутбук 16 gb ram",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/catalog/17a9b91b16404e77/operativnaa-pamat-so-dimm/?q=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA+16+gb+ram&stock=now-today-tomorrow-later-out_of_stock&order=popular"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none16.html",
+        "source": "dns-shop.ru",
+        "query": "ноутбук 16 gb ram",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/catalog/17a9b91b16404e77/operativnaa-pamat-so-dimm/?q=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA+16+gb+ram&stock=now-today-tomorrow-later-out_of_stock&order=popular"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none17.html",
+        "source": "dns-shop.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=ps+5&category=17a8978216404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none18.html",
+        "source": "dns-shop.ru",
+        "query": "дрель безударная",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D0%B1%D0%B5%D0%B7%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F&category=17a9c58016404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none19.html",
+        "source": "dns-shop.ru",
+        "query": "дрель",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C&category=17a9c58016404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none20.html",
+        "source": "dns-shop.ru",
+        "query": "playstation 5 slim",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=playstation+5+slim&category=17a8978216404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none21.html",
+        "source": "dns-shop.ru",
+        "query": null,
+        "query_source": "not_found",
+        "query_candidates": []
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none22.html",
+        "source": "dns-shop.ru",
+        "query": "смартфон honor",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=%D1%81%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD+honor&category=17a8a01d16404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none23.html",
+        "source": "dns-shop.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=ps+5"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none24.html",
+        "source": "dns-shop.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=ps+5&category=17a8978216404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none25.html",
+        "source": "dns-shop.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=ps+5&category=17a8978216404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none26.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none27.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none28.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none29.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none30.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none31.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none32.html",
+        "source": "dns-shop.ru",
+        "query": "бензопила",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=%D0%B1%D0%B5%D0%BD%D0%B7%D0%BE%D0%BF%D0%B8%D0%BB%D0%B0&category=17a9c8d816404e77"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none33.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none34.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none35.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none36.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none37.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none38.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none39.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none40.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none41.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none42.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none43.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none44.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5&category=33ddaa5f0e06c3d1"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-none45.html",
+        "source": "dns-shop.ru",
+        "query": "dualshock 5",
+        "query_source": "page_url",
+        "query_url": "https://www.dns-shop.ru/search/?q=dualshock+5"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-2fcceeba.html",
+        "source": "dns-shop.ru",
+        "query": "шуруповёрт",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-4ae1c2e7.html",
+        "source": "dns-shop.ru",
+        "query": "дрель",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-77ea1710.html",
+        "source": "dns-shop.ru",
+        "query": "playstation 5 slim",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-94fca290.html",
+        "source": "dns-shop.ru",
+        "query": "смартфон honor",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/dns-shop.ru-run-b346efa2.html",
+        "source": "dns-shop.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/etm.ru-run-8dd91d0f.html",
+        "source": "etm.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/etm.ru-run-b609a8c6.html",
+        "source": "etm.ru",
+        "query": "дрель ударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/hahn-kolb.ru-run-8238baa5.html",
+        "source": "hahn-kolb.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/komus.ru-run-none1.html",
+        "source": "komus.ru",
+        "query": "карандаш",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search?text=%D0%BA%D0%B0%D1%80%D0%B0%D0%BD%D0%B4%D0%B0%D1%88"
+      },
+      {
+        "html_file": "html/komus.ru-run-none2.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/komus.ru-run-none3.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/komus.ru-run-none4.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/komus.ru-run-none5.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F&qid=0847827062"
+      },
+      {
+        "html_file": "html/komus.ru-run-none6.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/komus.ru-run-none7.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/komus.ru-run-none8.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/komus.ru-run-none9.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/komus.ru-run-none10.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/komus.ru-run-none11.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/komus.ru-run-none12.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/komus.ru-run-none13.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F&qid=9249079526"
+      },
+      {
+        "html_file": "html/komus.ru-run-none14.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F&qid=7537159397&listingMode=PLAIN"
+      },
+      {
+        "html_file": "html/komus.ru-run-none15.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F&qid=4324214800&listingMode=PLAIN"
+      },
+      {
+        "html_file": "html/komus.ru-run-none16.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F&qid=1600969827"
+      },
+      {
+        "html_file": "html/komus.ru-run-none17.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F&qid=3003386798"
+      },
+      {
+        "html_file": "html/komus.ru-run-none18.html",
+        "source": "komus.ru",
+        "query": "gfhdmgjh,,jfgnb",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search?text=gfhdmgjh,,jfgnb&result=empty&qid=1328018485"
+      },
+      {
+        "html_file": "html/komus.ru-run-none19.html",
+        "source": "komus.ru",
+        "query": "gfhdmgjh,,jfgnb",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=gfhdmgjh%2C%2Cjfgnb"
+      },
+      {
+        "html_file": "html/komus.ru-run-none20.html",
+        "source": "komus.ru",
+        "query": "гелевая ручка",
+        "query_source": "page_url",
+        "query_url": "https://www.komus.ru/search/?text=%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F+%D1%80%D1%83%D1%87%D0%BA%D0%B0"
+      },
+      {
+        "html_file": "html/komus.ru-run-437fc902.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/komus.ru-run-6628d12b.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/komus.ru-run-98da06df.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/komus.ru-run-daa9251b.html",
+        "source": "komus.ru",
+        "query": "ручка гелевая",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/komus.ru-run-db327323.html",
+        "source": "komus.ru",
+        "query": "gfhdmgjh,,jfgnb",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/labirint.ru-run-168d58c6.html",
+        "source": "labirint.ru",
+        "query": "Ведьмак",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/labirint.ru-run-787cdb0e.html",
+        "source": "labirint.ru",
+        "query": "Ведьмак",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/labirint.ru-run-99e5ac15.html",
+        "source": "labirint.ru",
+        "query": "Властелин колец",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/labirint.ru-run-9e372646.html",
+        "source": "labirint.ru",
+        "query": "Властелин колец",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/labirint.ru-run-c23cbd90.html",
+        "source": "labirint.ru",
+        "query": "1984",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/labirint.ru-run-d035826a.html",
+        "source": "labirint.ru",
+        "query": "1984",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/labirint.ru-run-e4163107.html",
+        "source": "labirint.ru",
+        "query": "Властелин колец",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/labirint.ru-run-ec02639a.html",
+        "source": "labirint.ru",
+        "query": "1984",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/lemanapro.ru-run-none1.html",
+        "source": "lemanapro.ru",
+        "query": "дрель безударная",
+        "query_source": "page_url",
+        "query_url": "https://lemanapro.ru/search/?q=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D0%B1%D0%B5%D0%B7%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/lemanapro.ru-run-none2.html",
+        "source": "lemanapro.ru",
+        "query": "дрель безударная",
+        "query_source": "page_url",
+        "query_url": "https://lemanapro.ru/search/?q=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D0%B1%D0%B5%D0%B7%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/lemanapro.ru-run-none3.html",
+        "source": "lemanapro.ru",
+        "query": "дрель ударная",
+        "query_source": "page_url",
+        "query_url": "https://lemanapro.ru/search/?q=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/lemanapro.ru-run-none4.html",
+        "source": "lemanapro.ru",
+        "query": "дрель ударная",
+        "query_source": "page_url",
+        "query_url": "https://lemanapro.ru/search/?q=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/lemanapro.ru-run-none5.html",
+        "source": "lemanapro.ru",
+        "query": "аывиваимвмви",
+        "query_source": "page_url",
+        "query_url": "https://lemanapro.ru/search/?q=%D0%B0%D1%8B%D0%B2%D0%B8%D0%B2%D0%B0%D0%B8%D0%BC%D0%B2%D0%BC%D0%B2%D0%B8"
+      },
+      {
+        "html_file": "html/lemanapro.ru-run-none6.html",
+        "source": "lemanapro.ru",
+        "query": "дрель",
+        "query_source": "page_url",
+        "query_url": "https://lemanapro.ru/search/?q=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C"
+      },
+      {
+        "html_file": "html/lemanapro.ru-run-2e839b74.html",
+        "source": "lemanapro.ru",
+        "query": "дрель",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/lemanapro.ru-run-99b5ac8f.html",
+        "source": "lemanapro.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/lemanapro.ru-run-ecee459d.html",
+        "source": "lemanapro.ru",
+        "query": "аывиваимвмви",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/lemanapro.ru-run-fac98328.html",
+        "source": "lemanapro.ru",
+        "query": "дрель ударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/lemanapro.ru-run-fe1a35c2.html",
+        "source": "lemanapro.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/market.yandex.ru-run-8d5e2489.html",
+        "source": "market.yandex.ru",
+        "query": "шуруповёрт",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/market.yandex.ru-run-a52ccc6b.html",
+        "source": "market.yandex.ru",
+        "query": "столик журнальный",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/mvideo.ru-run-none1.html",
+        "source": "mvideo.ru",
+        "query": "оперативная память 8 гб ddr 5",
+        "query_source": "page_url",
+        "query_url": "https://www.mvideo.ru/search?q=%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C%208%20%D0%B3%D0%B1%20ddr%205"
+      },
+      {
+        "html_file": "html/mvideo.ru-run-none2.html",
+        "source": "mvideo.ru",
+        "query": "дрель безударная",
+        "query_source": "page_url",
+        "query_url": "https://www.mvideo.ru/search?q=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D0%B1%D0%B5%D0%B7%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/mvideo.ru-run-none3.html",
+        "source": "mvideo.ru",
+        "query": "дрель безударная",
+        "query_source": "page_url",
+        "query_url": "https://www.mvideo.ru/search?q=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D0%B1%D0%B5%D0%B7%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/mvideo.ru-run-none4.html",
+        "source": "mvideo.ru",
+        "query": "дрель ударная",
+        "query_source": "page_url",
+        "query_url": "https://www.mvideo.ru/search?q=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/mvideo.ru-run-none5.html",
+        "source": "mvideo.ru",
+        "query": "дрель ударная",
+        "query_source": "page_url",
+        "query_url": "https://www.mvideo.ru/search?q=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/mvideo.ru-run-none6.html",
+        "source": "mvideo.ru",
+        "query": "дрель ударная",
+        "query_source": "page_url",
+        "query_url": "https://www.mvideo.ru/search?q=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/mvideo.ru-run-none7.html",
+        "source": "mvideo.ru",
+        "query": "дрель ударная",
+        "query_source": "page_url",
+        "query_url": "https://www.mvideo.ru/search?q=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/mvideo.ru-run-none8.html",
+        "source": "mvideo.ru",
+        "query": "gsdgsfdgfbd",
+        "query_source": "html:search_title"
+      },
+      {
+        "html_file": "html/mvideo.ru-run-none9.html",
+        "source": "mvideo.ru",
+        "query": "gsdgsfdgfbd",
+        "query_source": "html:search_title"
+      },
+      {
+        "html_file": "html/mvideo.ru-run-none10.html",
+        "source": "mvideo.ru",
+        "query": "gsdgsfdgfbd",
+        "query_source": "html:search_title"
+      },
+      {
+        "html_file": "html/mvideo.ru-run-none11.html",
+        "source": "mvideo.ru",
+        "query": "gsdgsfdgfbd",
+        "query_source": "html:search_title"
+      },
+      {
+        "html_file": "html/mvideo.ru-run-82a41131.html",
+        "source": "mvideo.ru",
+        "query": "дрель ударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/mvideo.ru-run-bd396f4d.html",
+        "source": "mvideo.ru",
+        "query": "консоль ps5",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/mvideo.ru-run-f3583847.html",
+        "source": "mvideo.ru",
+        "query": "дрель",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/oaopolimer.ru-run-none1.html",
+        "source": "oaopolimer.ru",
+        "query": "ящик",
+        "query_source": "page_url",
+        "query_url": "https://oaopolimer.ru/search/?q=%d1%8f%d1%89%d0%b8%d0%ba"
+      },
+      {
+        "html_file": "html/oaopolimer.ru-run-none2.html",
+        "source": "oaopolimer.ru",
+        "query": "ящик",
+        "query_source": "page_url",
+        "query_url": "https://oaopolimer.ru/search/?q=%d1%8f%d1%89%d0%b8%d0%ba"
+      },
+      {
+        "html_file": "html/oaopolimer.ru-run-none3.html",
+        "source": "oaopolimer.ru",
+        "query": "ящик",
+        "query_source": "page_url",
+        "query_url": "https://oaopolimer.ru/search/?q=%d1%8f%d1%89%d0%b8%d0%ba"
+      },
+      {
+        "html_file": "html/oaopolimer.ru-run-none4.html",
+        "source": "oaopolimer.ru",
+        "query": "ящик",
+        "query_source": "page_url",
+        "query_url": "https://oaopolimer.ru/search/?q=%d1%8f%d1%89%d0%b8%d0%ba"
+      },
+      {
+        "html_file": "html/oaopolimer.ru-run-none5.html",
+        "source": "oaopolimer.ru",
+        "query": "ящик",
+        "query_source": "page_url",
+        "query_url": "https://oaopolimer.ru/search/?q=%d1%8f%d1%89%d0%b8%d0%ba"
+      },
+      {
+        "html_file": "html/oaopolimer.ru-run-99bb6904.html",
+        "source": "oaopolimer.ru",
+        "query": "ящик",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/oaopolimer.ru-run-bc19d776.html",
+        "source": "oaopolimer.ru",
+        "query": "ящик",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/officemag.ru-run-none1.html",
+        "source": "officemag.ru",
+        "query": null,
+        "query_source": "not_found",
+        "query_candidates": []
+      },
+      {
+        "html_file": "html/officemag.ru-run-none2.html",
+        "source": "officemag.ru",
+        "query": null,
+        "query_source": "not_found",
+        "query_candidates": []
+      },
+      {
+        "html_file": "html/officemag.ru-run-none3.html",
+        "source": "officemag.ru",
+        "query": null,
+        "query_source": "not_found",
+        "query_candidates": []
+      },
+      {
+        "html_file": "html/officemag.ru-run-none4.html",
+        "source": "officemag.ru",
+        "query": "гелевая ручка",
+        "query_source": "page_url",
+        "query_url": "https://www.officemag.ru/search/?q=%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F+%D1%80%D1%83%D1%87%D0%BA%D0%B0"
+      },
+      {
+        "html_file": "html/officemag.ru-run-none5.html",
+        "source": "officemag.ru",
+        "query": "ручка гелевая",
+        "query_source": "page_url",
+        "query_url": "https://www.officemag.ru/search/?q=%D1%80%D1%83%D1%87%D0%BA%D0%B0+%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/officemag.ru-run-2eca7e5f.html",
+        "source": "officemag.ru",
+        "query": "бумага а4",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/officemag.ru-run-3d0f801a.html",
+        "source": "officemag.ru",
+        "query": "бумага а4",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/officemag.ru-run-ac6cc526.html",
+        "source": "officemag.ru",
+        "query": "бумага а4",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none1.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none2.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none3.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none4.html",
+        "source": "ozon.ru",
+        "query": "ноутбук",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/category/noutbuki-planshety-i-elektronnye-knigi-8730/?category_was_predicted=true&deny_category_prediction=true&text=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none5.html",
+        "source": "ozon.ru",
+        "query": "ноутбук 16 gb ram",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?from_global=true&text=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA+16+gb+ram"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none6.html",
+        "source": "ozon.ru",
+        "query": "ноутбук 16 gb ram",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?from_global=true&text=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA+16+gb+ram"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none7.html",
+        "source": "ozon.ru",
+        "query": "ноутбук 16 gb ram",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?from_global=true&text=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA+16+gb+ram"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none8.html",
+        "source": "ozon.ru",
+        "query": "дрель makita",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/category/elektroinstrumenty-9857/?category_was_predicted=true&deny_category_prediction=true&text=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+makita"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none9.html",
+        "source": "ozon.ru",
+        "query": "дрель makita",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/category/elektroinstrumenty-9857/?__rr=1&category_was_predicted=true&deny_category_prediction=true&text=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+makita"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none10.html",
+        "source": "ozon.ru",
+        "query": "дрель makita",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/category/elektroinstrumenty-9857/?category_was_predicted=true&deny_category_prediction=true&text=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+makita&__rr=1"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none11.html",
+        "source": "ozon.ru",
+        "query": "дрель безударная",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/category/elektrodreli-9860/?category_was_predicted=true&deny_category_prediction=true&text=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D0%B1%D0%B5%D0%B7%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none12.html",
+        "source": "ozon.ru",
+        "query": "бензопила",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=%D0%B1%D0%B5%D0%BD%D0%B7%D0%BE%D0%BF%D0%B8%D0%BB%D0%B0&__rr=1"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none13.html",
+        "source": "ozon.ru",
+        "query": "дрель",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none14.html",
+        "source": "ozon.ru",
+        "query": "дрель безударная",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D0%B1%D0%B5%D0%B7%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none15.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none16.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none17.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none18.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none19.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none20.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none21.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none22.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none23.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none24.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none25.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none26.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none27.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none28.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none29.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none30.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5&__rr=1"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none31.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none32.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-none33.html",
+        "source": "ozon.ru",
+        "query": "ps 5",
+        "query_source": "page_url",
+        "query_url": "https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=ps+5"
+      },
+      {
+        "html_file": "html/ozon.ru-run-4f3eb2b3.html",
+        "source": "ozon.ru",
+        "query": "дрель makita",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/ozon.ru-run-5df0fc85.html",
+        "source": "ozon.ru",
+        "query": "дрель makita",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/ozon.ru-run-7a5dc852.html",
+        "source": "ozon.ru",
+        "query": "дрель makita",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/petrovich.ru-run-7ab9dec2.html",
+        "source": "petrovich.ru",
+        "query": "безударная дрель",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/petrovich.ru-run-f37ca1e3.html",
+        "source": "petrovich.ru",
+        "query": "дрель безударная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/rs24.ru-run-none1.html",
+        "source": "rs24.ru",
+        "query": "втулка",
+        "query_source": "page_url",
+        "query_url": "https://rs24.ru/search?q=%D0%B2%D1%82%D1%83%D0%BB%D0%BA%D0%B0"
+      },
+      {
+        "html_file": "html/rs24.ru-run-none2.html",
+        "source": "rs24.ru",
+        "query": "втулка",
+        "query_source": "page_url",
+        "query_url": "https://rs24.ru/search?q=%D0%B2%D1%82%D1%83%D0%BB%D0%BA%D0%B0"
+      },
+      {
+        "html_file": "html/rs24.ru-run-none3.html",
+        "source": "rs24.ru",
+        "query": "бензопила",
+        "query_source": "page_url",
+        "query_url": "https://rs24.ru/search?q=%D0%B1%D0%B5%D0%BD%D0%B7%D0%BE%D0%BF%D0%B8%D0%BB%D0%B0"
+      },
+      {
+        "html_file": "html/rs24.ru-run-none4.html",
+        "source": "rs24.ru",
+        "query": "дрель безударная",
+        "query_source": "page_url",
+        "query_url": "https://rs24.ru/search?q=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D0%B1%D0%B5%D0%B7%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/rs24.ru-run-none5.html",
+        "source": "rs24.ru",
+        "query": "дрель",
+        "query_source": "page_url",
+        "query_url": "https://rs24.ru/search?q=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C"
+      },
+      {
+        "html_file": "html/rs24.ru-run-none6.html",
+        "source": "rs24.ru",
+        "query": "30% Раствор едкого натра",
+        "query_source": "page_url",
+        "query_url": "https://rs24.ru/search?q=30%25+%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80+%D0%B5%D0%B4%D0%BA%D0%BE%D0%B3%D0%BE+%D0%BD%D0%B0%D1%82%D1%80%D0%B0"
+      },
+      {
+        "html_file": "html/rs24.ru-run-none7.html",
+        "source": "rs24.ru",
+        "query": "2-ая наружная розетка Systeme Electric",
+        "query_source": "page_url",
+        "query_url": "https://rs24.ru/search?q=2-%D0%B0%D1%8F+%D0%BD%D0%B0%D1%80%D1%83%D0%B6%D0%BD%D0%B0%D1%8F+%D1%80%D0%BE%D0%B7%D0%B5%D1%82%D0%BA%D0%B0+Systeme+Electric"
+      },
+      {
+        "html_file": "html/rs24.ru-run-none8.html",
+        "source": "rs24.ru",
+        "query": "30% Раствор едкого натра",
+        "query_source": "page_url",
+        "query_url": "https://rs24.ru/search?q=30%25+%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80+%D0%B5%D0%B4%D0%BA%D0%BE%D0%B3%D0%BE+%D0%BD%D0%B0%D1%82%D1%80%D0%B0"
+      },
+      {
+        "html_file": "html/rs24.ru-run-none9.html",
+        "source": "rs24.ru",
+        "query": "2-ая наружная розетка Systeme Electric",
+        "query_source": "page_url",
+        "query_url": "https://rs24.ru/search?q=2-%D0%B0%D1%8F+%D0%BD%D0%B0%D1%80%D1%83%D0%B6%D0%BD%D0%B0%D1%8F+%D1%80%D0%BE%D0%B7%D0%B5%D1%82%D0%BA%D0%B0+Systeme+Electric"
+      },
+      {
+        "html_file": "html/rs24.ru-run-04db4a0c.html",
+        "source": "rs24.ru",
+        "query": "втулка",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/rs24.ru-run-80a083d9.html",
+        "source": "rs24.ru",
+        "query": "втулка",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/spb.kuvalda.ru-run-none1.html",
+        "source": "spb.kuvalda.ru",
+        "query": "дрель макита",
+        "query_source": "page_url",
+        "query_url": "https://spb.kuvalda.ru/catalog/search/?keyword=%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%D0%BC%D0%B0%D0%BA%D0%B8%D1%82%D0%B0"
+      },
+      {
+        "html_file": "html/spb.tara.ru-run-none1.html",
+        "source": "spb.tara.ru",
+        "query": null,
+        "query_source": "not_found",
+        "query_candidates": []
+      },
+      {
+        "html_file": "html/spb.tara.ru-run-none2.html",
+        "source": "spb.tara.ru",
+        "query": "ящик",
+        "query_source": "page_url",
+        "query_url": "https://spb.tara.ru/catalog/?q=%D1%8F%D1%89%D0%B8%D0%BA&s=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8"
+      },
+      {
+        "html_file": "html/spb.tara.ru-run-none3.html",
+        "source": "spb.tara.ru",
+        "query": null,
+        "query_source": "not_found",
+        "query_candidates": []
+      },
+      {
+        "html_file": "html/spb.tara.ru-run-none4.html",
+        "source": "spb.tara.ru",
+        "query": null,
+        "query_source": "not_found",
+        "query_candidates": []
+      },
+      {
+        "html_file": "html/spb.tara.ru-run-none5.html",
+        "source": "spb.tara.ru",
+        "query": "ящик",
+        "query_source": "page_url",
+        "query_url": "https://spb.tara.ru/catalog/?q=%D1%8F%D1%89%D0%B8%D0%BA&s=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8"
+      },
+      {
+        "html_file": "html/spb.tara.ru-run-none6.html",
+        "source": "spb.tara.ru",
+        "query": "ящик",
+        "query_source": "page_url",
+        "query_url": "https://spb.tara.ru/catalog/?q=%D1%8F%D1%89%D0%B8%D0%BA&s=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8"
+      },
+      {
+        "html_file": "html/tara.ru-run-08e7e74c.html",
+        "source": "tara.ru",
+        "query": "ящик",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/tara.ru-run-26e00e9e.html",
+        "source": "tara.ru",
+        "query": "ящик",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/tara.ru-run-6b43fab8.html",
+        "source": "tara.ru",
+        "query": "ящик",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/tara.ru-run-a9c88d00.html",
+        "source": "tara.ru",
+        "query": "ящик",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/vseinstrumenti.ru-run-8d52f5c4.html",
+        "source": "vseinstrumenti.ru",
+        "query": "безударная дрель",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/wildberries.ru-run-none1.html",
+        "source": "wildberries.ru",
+        "query": "новый практический курс китайского языка 3 издание",
+        "query_source": "page_url",
+        "query_url": "https://www.wildberries.ru/catalog/0/search.aspx?search=%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%20%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0%203%20%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5"
+      },
+      {
+        "html_file": "html/wildberries.ru-run-none2.html",
+        "source": "wildberries.ru",
+        "query": "новый практический курс китайского языка 3 издание",
+        "query_source": "page_url",
+        "query_url": "https://www.wildberries.ru/catalog/0/search.aspx?search=%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%20%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0%203%20%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5"
+      },
+      {
+        "html_file": "html/ximtek.ru-run-none1.html",
+        "source": "ximtek.ru",
+        "query": "антисептик",
+        "query_source": "page_url",
+        "query_url": "https://ximtek.ru/katalog/?q=%D0%B0%D0%BD%D1%82%D0%B8%D1%81%D0%B5%D0%BF%D1%82%D0%B8%D0%BA"
+      },
+      {
+        "html_file": "html/ximtek.ru-run-none2.html",
+        "source": "ximtek.ru",
+        "query": "антисептик",
+        "query_source": "page_url",
+        "query_url": "https://ximtek.ru/katalog/?q=%D0%B0%D0%BD%D1%82%D0%B8%D1%81%D0%B5%D0%BF%D1%82%D0%B8%D0%BA"
+      },
+      {
+        "html_file": "html/ximtek.ru-run-none3.html",
+        "source": "ximtek.ru",
+        "query": "антисептик",
+        "query_source": "page_url",
+        "query_url": "https://ximtek.ru/katalog/?q=%D0%B0%D0%BD%D1%82%D0%B8%D1%81%D0%B5%D0%BF%D1%82%D0%B8%D0%BA"
+      },
+      {
+        "html_file": "html/ximtek.ru-run-none4.html",
+        "source": "ximtek.ru",
+        "query": "каска",
+        "query_source": "page_url",
+        "query_url": "https://ximtek.ru/katalog/?q=%D0%BA%D0%B0%D1%81%D0%BA%D0%B0"
+      },
+      {
+        "html_file": "html/ximtek.ru-run-60625fbe.html",
+        "source": "ximtek.ru",
+        "query": "антисептик",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/ximtek.ru-run-8572df63.html",
+        "source": "ximtek.ru",
+        "query": "антисептик",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/xn----7sbbnaebi2cxajxwo0b.xn--p1ai-run-none1.html",
+        "source": "xn----7sbbnaebi2cxajxwo0b.xn--p1ai",
+        "query": "каска",
+        "query_source": "page_url",
+        "query_url": "https://xn----7sbbnaebi2cxajxwo0b.xn--p1ai/search/?query=%D0%BA%D0%B0%D1%81%D0%BA%D0%B0"
+      },
+      {
+        "html_file": "html/xn----7sbbnaebi2cxajxwo0b.xn--p1ai-run-none2.html",
+        "source": "xn----7sbbnaebi2cxajxwo0b.xn--p1ai",
+        "query": "каска защитная",
+        "query_source": "page_url",
+        "query_url": "https://xn----7sbbnaebi2cxajxwo0b.xn--p1ai/search/?query=%D0%BA%D0%B0%D1%81%D0%BA%D0%B0+%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "html_file": "html/xn----7sbbnaebi2cxajxwo0b.xn--p1ai-run-none3.html",
+        "source": "xn----7sbbnaebi2cxajxwo0b.xn--p1ai",
+        "query": "каска",
+        "query_source": "page_url",
+        "query_url": "https://xn----7sbbnaebi2cxajxwo0b.xn--p1ai/search/?query=%D0%BA%D0%B0%D1%81%D0%BA%D0%B0"
+      },
+      {
+        "html_file": "html/unknown-run-7839236e.html",
+        "source": "спецодежда-тула.рф",
+        "query": "каска защитная",
+        "query_source": "existing:Pages.query"
+      },
+      {
+        "html_file": "html/unknown-run-af7893e6.html",
+        "source": "спецодежда-тула.рф",
+        "query": "каска",
+        "query_source": "existing:Pages.query"
+      }
+    ]
+  },
+  "written": true,
+  "backup": "D:\\Pet_Codes\\science\\article-price-tracker\\industrial\\dind.before-prefill-20260929-101001-336184.xlsx"
+}

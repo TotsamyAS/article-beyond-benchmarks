@@ -1,0 +1,28 @@
+{
+  "reference_rows": 6337,
+  "manifest_pages": 240,
+  "available_manifest_pages": 239,
+  "annotated_pages": 239,
+  "unannotated_manifest_pages": 0,
+  "reference_pages_not_in_html_dir": 0,
+  "positive_entities": 6317,
+  "negative_or_empty_rows": 20,
+  "positive_missing_name_gt": 0,
+  "positive_missing_price_gt": 160,
+  "positive_confirmed_absent_price_gt": 160,
+  "positive_unannotated_price_gt": 0,
+  "positive_missing_product_url_gt": 0,
+  "duplicate_positive_page_url_keys": 0,
+  "missing_html_files": [
+    "html/hahn-kolb.ru-run-8238baa5.html"
+  ],
+  "html_hash_mismatches": [],
+  "excluded_gt_pages": 0,
+  "annotation_policy": "labeled",
+  "annotation_status_counts": {
+    "in_progress": 6157,
+    "done": 180
+  },
+  "ready_for_available_pages": true,
+  "paper_ready_closed_world": false
+}

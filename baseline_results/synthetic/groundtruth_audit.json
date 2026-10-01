@@ -1,0 +1,14 @@
+{
+  "reference_rows": 1000,
+  "manifest_pages": 218,
+  "annotated_pages": 0,
+  "unannotated_manifest_pages": 218,
+  "reference_pages_not_in_html_dir": 1,
+  "positive_entities": 1000,
+  "negative_or_empty_rows": 0,
+  "positive_missing_name_gt": 0,
+  "positive_missing_price_gt": 0,
+  "positive_missing_product_url_gt": 0,
+  "duplicate_positive_page_url_keys": 1000,
+  "paper_ready_closed_world": false
+}

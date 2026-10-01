@@ -1,0 +1,16 @@
+# Synthetic E-commerce Benchmark
+
+Reproducible local synthetic benchmark for the article.
+
+- `D_syn`: 20 clean HTML pages, 5 products per page = 100 ground-truth entities.
+- Category mix by both pages and entities: 50% construction instruments, 20% stationery, 20% electronics, 10% other.
+- `other` covers household chemicals, PPE, and containers (3/3/4 entities respectively).
+- 10 controlled mutations per clean page = 200 `D_rob` pages and 1,000 ground-truth entities.
+- Mutation axes: CSS class renaming, wrapper insertion, field reordering, target-field subtree relocation.
+- Ten HTML serialization templates are used twice each: JSON-LD, microdata, plain cards, embedded state, nested/grid, table, semantic articles, data attributes, and mixed markup.
+- All product domains are `synthetic-shop.local`; no network requests are needed or intended.
+- Ground truth is generated independently of extractor output.
+
+The generator is deterministic. Default seed metadata: `20260928`.
+
+Dependency for generation: `beautifulsoup4` + `lxml`. The generated HTML/CSV files themselves have no runtime dependency.
