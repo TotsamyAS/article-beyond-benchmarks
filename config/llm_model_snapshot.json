@@ -1,0 +1,54 @@
+{
+  "id": "qwen/qwen3.8-omni-flash",
+  "name": "Qwen: Qwen3.8 Omni Flash",
+  "created": 1789959954,
+  "description": "Qwen3.8 Omni Flash — это омни-модальная модель рассуждений от Alibaba, первая модель Qwen, построенная вокруг агентных возможностей с нативным пониманием аудио и видео. Она подходит для анализа и суммирования аудио-видео, рабочих процессов редактирования и производства видео, аудио-видео диалогов, программирования, работы с информацией и взаимодействия с графическим интерфейсом пользователя. Особенно сильна в выполнении мультимедийных задач в длинной форме, которые объединяют речь, звук и визуальный контекст. Также поддерживает понимание пространственного аудио с двумя и четырьмя каналами.",
+  "context_length": 1000000,
+  "architecture": {
+    "modality": "text+image+audio+video->text",
+    "tokenizer": "Qwen",
+    "instruct_type": null,
+    "input_modalities": [
+      "text",
+      "image",
+      "audio",
+      "video"
+    ],
+    "output_modalities": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "prompt": 1.6232853e-05,
+    "completion": 5.08629394e-05,
+    "input_cache_read": 1.73150432e-06
+  },
+  "pricing_units": {
+    "prompt": "token",
+    "completion": "token",
+    "input_cache_read": "token"
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "logprobs",
+    "max_tokens",
+    "presence_penalty",
+    "reasoning",
+    "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_k",
+    "top_logprobs",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "snapshot_date": "2026-10-02",
+  "snapshot_source": "https://routerai.ru/api/v1/models",
+  "pricing_currency": "RUB"
+}

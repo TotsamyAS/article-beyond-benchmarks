@@ -1,23 +1,27 @@
-{
-  "seed": 20260928,
-  "n_clean_pages": 20,
-  "entities_per_page": 5,
-  "category_distribution": {
-    "construction_instruments": 0.5,
-    "stationery": 0.2,
-    "electronics": 0.2,
-    "other": 0.1
-  },
-  "other_subcategories": [
-    "household_chemicals",
-    "ppe",
-    "containers"
-  ],
-  "robustness_mutations_per_clean_page": 10,
-  "robustness_axes": {
-    "class_rename": 3,
-    "wrapper_insert": 3,
-    "field_reorder": 2,
-    "subtree_relocate": 2
-  }
-}
+# Synthetic E-commerce Benchmark
+
+Reproducible local synthetic benchmark for the article.
+
+- `D_syn`: 20 clean HTML pages, 5 products per page = 100 ground-truth entities.
+- Category mix by both pages and entities: 50% construction instruments, 20% stationery, 20% electronics, 10% other.
+- `other` covers household chemicals, PPE, and containers (3/3/4 entities respectively).
+- 10 controlled mutations per clean page = 200 `D_rob` pages and 1,000 ground-truth entities.
+- Mutation axes: CSS class renaming, wrapper insertion, field reordering, target-field subtree relocation.
+- Ten HTML serialization templates are used twice each: JSON-LD, microdata, plain cards, embedded state, nested/grid, table, semantic articles, data attributes, and mixed markup.
+- All product domains are `synthetic-shop.local`; no network requests are needed or intended.
+- Ground truth is generated independently of extractor output.
+
+The generator is deterministic. Default seed metadata: `20260928`.
+
+Dependency for generation: `beautifulsoup4` + `lxml`. The generated HTML/CSV files themselves have no runtime dependency.
+
+## Restored file mapping
+
+All 220 HTML payloads live under `html/`. Clean pages use `synthetic_pages.csv`
+and `synthetic_ground_truth.csv`; mutations use `robustness_pages.csv` and
+`robustness_ground_truth.csv`. The benchmark reports these separately.
+
+Misassigned filenames were recovered with all 200 original generator SHA-256
+hashes and the 20 embedded clean page identities. Original robustness GT was
+preserved; clean GT was recovered from its identical per-base-entity labels
+across mutations. No extractor predictions were used.

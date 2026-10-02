@@ -1,0 +1,12 @@
+{
+  "gt_entities": 6317,
+  "methods": [
+    "b1_jsonld",
+    "b2_css",
+    "original_fast",
+    "original_fast_query"
+  ],
+  "csv_metrics_verified": true,
+  "all_excel_names_prices_statuses_run_ids_match_csv": true,
+  "workbook_sha256": "c6b3fc3d04d410755b8f1323e08c531b6deecf07ba7c9daa6fea4a9533632d92"
+}

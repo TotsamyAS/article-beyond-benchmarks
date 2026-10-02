@@ -1,0 +1,154 @@
+{
+  "schema_version": 2,
+  "benchmark_run_id": "20261002T161451Z-d2eb76ee",
+  "dataset": "robustness",
+  "created_at_utc": "2026-10-02T16:18:42.491014+00:00",
+  "reference_file": "D:\\Pet_Codes\\science\\article-price-tracker\\synthetic\\robustness_ground_truth.csv",
+  "reference_sha256": "37faa8acf7a0701c4ff43864ffd60e6130dec3836252d0957386aa62b22d6fdb",
+  "annotation_policy": "labeled",
+  "industrial_zero_means_absent_price": false,
+  "variants": [
+    "original_fast",
+    "original_fast_query"
+  ],
+  "name_threshold": 0.85,
+  "price_relative_tolerance": 0.01,
+  "url_policy": "lowercase; strip query, fragment, trailing slash and www host prefix",
+  "manifest_selection": "Pages",
+  "manifest_sha256": "93500a3f6f90d9db7d60d0c5d9480c2bfff06c5f7c98372482b9f2030da7e1fd",
+  "raw_predictions_sha256": "5eff539af0e34efd7e9beda08a18bc28e1c7caa04930fcd8fc8f479c0d720588",
+  "pandas_version": "3.0.6",
+  "python_version": "3.13.13",
+  "parser_contract": {
+    "bundle_sha256": "6b21ed61b43b07f1e311012672cf932a1247d016ebe79083c03158cc4cf4e8ff",
+    "worker_sha256": "cc62c5fc0967d9b3ba85979352ed50fe5882e8a5a23c1d5cf36430664574de01",
+    "limit": 500,
+    "source_selectors": "built-in profiles only",
+    "variants": [
+      "original_fast",
+      "original_fast_query"
+    ]
+  },
+  "original_parser": {
+    "origin": "PriceTracker/services/fast-renderer",
+    "reference_node_version": "v24.6.0",
+    "source_sha256": {
+      "src/extractor.ts": "5bcd6785fe96473604f91b88459caef9ba08e67d53a76b3f1b127bd7dfa1eadc",
+      "src/candidates.ts": "c114eede4b24dd81fa9449616e53c2a174310faacfe11c03435c35f3b154e9ba",
+      "src/utils.ts": "3c5f03f8bd88d9c1c73cf32c1ec3727463d3d98f415cdd1d68cf583ec1912fea",
+      "src/profiles.ts": "ded275a1fb3ac78b267aaf440f4c287c483b9be7f8bab4940a573e3b98348701",
+      "src/blockDetection.ts": "bd50f022bc2f758231de1f7db7e97a72d2ff24c14b58b2b5d78cd1fbf11fc50b",
+      "src/queryRelevance.ts": "cabc22448e86c8ad5521d2801ac7bf20cd1117dc42ba63b2299ef121b7b35f3d",
+      "src/contracts.ts": "334772d2ace3ff198e60869e647d0dfe57999646a4643dfcc8cca04ec839b404"
+    },
+    "bundle_sha256": "6b21ed61b43b07f1e311012672cf932a1247d016ebe79083c03158cc4cf4e8ff",
+    "worker_sha256": "cc62c5fc0967d9b3ba85979352ed50fe5882e8a5a23c1d5cf36430664574de01",
+    "builder": "esbuild 0.27.7",
+    "dependency_versions": {
+      "cheerio@1.2.0": "1.2.0",
+      "domelementtype@2.3.0": "2.3.0",
+      "domhandler@5.0.3": "5.0.3",
+      "entities@4.5.0": "4.5.0",
+      "dom-serializer@2.0.0": "2.0.0",
+      "domutils@3.2.2": "3.2.2",
+      "entities@7.0.1": "7.0.1",
+      "htmlparser2@10.1.0": "10.1.0",
+      "css-what@6.2.2": "6.2.2",
+      "boolbase@1.0.0": "1.0.0",
+      "css-select@5.2.2": "5.2.2",
+      "nth-check@2.1.1": "2.1.1",
+      "cheerio-select@2.1.0": "2.1.0",
+      "parse5@7.3.0": "7.3.0",
+      "entities@6.0.1": "6.0.1",
+      "parse5-htmlparser2-tree-adapter@7.1.0": "7.1.0",
+      "parse5-parser-stream@7.1.2": "7.1.2",
+      "safer-buffer@2.1.2": "2.1.2",
+      "iconv-lite@0.6.3": "0.6.3",
+      "whatwg-encoding@3.1.1": "3.1.1",
+      "encoding-sniffer@0.2.1": "0.2.1",
+      "undici@7.25.0": "7.25.0",
+      "whatwg-mimetype@4.0.0": "4.0.0"
+    },
+    "source_repository_required": false,
+    "npm_required": false,
+    "limit": 500,
+    "scope": "saved HTML; original DOM/JSON parsers and built-in supplier profiles; optional original query filter",
+    "node_version": "v24.6.0",
+    "input_fingerprint": "5623d1615d27f701101cb4d935bfdc0a655109e66e3499bd403b8e70fd6282f3",
+    "resumed_pages": 0,
+    "parser_contract": {
+      "bundle_sha256": "6b21ed61b43b07f1e311012672cf932a1247d016ebe79083c03158cc4cf4e8ff",
+      "worker_sha256": "cc62c5fc0967d9b3ba85979352ed50fe5882e8a5a23c1d5cf36430664574de01",
+      "limit": 500,
+      "source_selectors": "built-in profiles only",
+      "variants": [
+        "original_fast",
+        "original_fast_query"
+      ]
+    }
+  },
+  "evaluation_status": "scored",
+  "files": {
+    "manifest": {
+      "file": "html_manifest.csv",
+      "sha256": "93500a3f6f90d9db7d60d0c5d9480c2bfff06c5f7c98372482b9f2030da7e1fd"
+    },
+    "raw_predictions": {
+      "file": "baseline_raw_predictions.csv",
+      "sha256": "5eff539af0e34efd7e9beda08a18bc28e1c7caa04930fcd8fc8f479c0d720588"
+    },
+    "groundtruth_loaded": {
+      "file": "groundtruth_loaded.csv",
+      "sha256": "2fe684f3a2da9f3baf6aec5a20c8652c76d157fdffad305a45ed49678fdf1935"
+    },
+    "audit": {
+      "file": "groundtruth_audit.json",
+      "sha256": "9dc2c0034f661716e7a0d91f965ea10c8d0c4d09259c54a5976b34b01b3812e8"
+    },
+    "predictions": {
+      "file": "baseline_predictions.csv",
+      "sha256": "106ffb268ccd5c09656bd8548d23b5eb12bbd00510a86c1e2f9f559e31f7fc0a"
+    },
+    "metrics": {
+      "file": "baseline_metrics.csv",
+      "sha256": "1fab4b4d9e864c8e5c0629a26dd2996c09c90f50c4b58094780b903acb62fbff"
+    },
+    "original_responses": {
+      "file": "original_parser_responses.jsonl",
+      "sha256": "e398436bae0214e7d20d8fc121f65c9161ad158052cdf6655d0c5a6dd911e649"
+    },
+    "entity_analytics": {
+      "file": "baseline_entity_analytics.csv",
+      "sha256": "b4c7a4207b227ed0dea4299e4cc3c2e4bb2db2f5eb422d911ff5feb6bca9d8d6"
+    },
+    "page_results": {
+      "file": "baseline_page_results.csv",
+      "sha256": "c442e046fa9d650dc8018d18623c3534e33f6039896d4f376a91ef7cd3e41df5"
+    },
+    "group_metrics": {
+      "file": "baseline_group_metrics.csv",
+      "sha256": "3bc4b4afc97d3492e62b603e511d3d3df3b530c53bdfcd612bb941d590994032"
+    },
+    "error_breakdown": {
+      "file": "baseline_error_breakdown.csv",
+      "sha256": "b55d1612997bf2e08733609d1877787f7fd7fc4b98b914c5fe3d3bdb7c52c3b3"
+    },
+    "error_distributions": {
+      "file": "baseline_error_distributions.csv",
+      "sha256": "e6fed9f259b29256b55179b7b360cfb6d837e0857bc19babe0d1cb9b544a3505"
+    },
+    "extraction_log": {
+      "file": "baseline_extraction_log.csv",
+      "sha256": "1b8bbd21afa9302ea39e0f7d1175836e9b8349577704637847f7da29922cc17b"
+    },
+    "analysis_profile": {
+      "file": "baseline_analysis_profile.json",
+      "sha256": "3c6d58ef1517dc79d1588ee0ae0e082d82b6d97715d869524cf66758adc74d66"
+    },
+    "review_excel": {
+      "file": "baseline_review.xlsx",
+      "sha256": "006306aafe85d5af23defad10db3a1dd8b1b9e3b99bcea8bb6b0fc86db88dba9"
+    }
+  },
+  "notebook_sha256": "9b8d728e3854cfe302e85cd3509185a1f050a5bc5de4b56bc1c0d4116f57e498"
+}

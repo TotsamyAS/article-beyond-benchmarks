@@ -1,19 +1,19 @@
 # Предварительное заполнение GroundTruth
 
-Скрипт `../prefill_industrial_gt.py` читает только локальные HTML, перечисленные
+Скрипт `../scripts/prefill_industrial_gt.py` читает только локальные HTML, перечисленные
 на листе `Pages` файла `dind.xlsx`. Примеры из `html/cadr_examples` служат
 образцами вёрстки и не добавляются в набор страниц.
 
 Из корня проекта:
 
 ```powershell
-python prefill_industrial_gt.py          # проверка и JSON-отчёт, без записи Excel
-python prefill_industrial_gt.py --write  # резервная копия и заполнение Excel
-python prefill_industrial_gt.py --metadata-only --write  # только восстановление query
+python scripts/prefill_industrial_gt.py          # проверка и JSON-отчёт, без записи Excel
+python scripts/prefill_industrial_gt.py --write  # резервная копия и заполнение Excel
+python scripts/prefill_industrial_gt.py --metadata-only --write  # только восстановление query
 python -m unittest test_prefill_industrial_gt -v
 ```
 
-Зависимости перечислены в `../requirements.txt`.
+Зависимости перечислены в `../config/requirements.txt`.
 
 ## Что появляется в Excel
 
@@ -77,7 +77,7 @@ canonical/og:url в HTML, заполненное поле поиска и одн
 После явного подтверждения человеком доступны флаги:
 
 ```powershell
-python prefill_industrial_gt.py --metadata-only --confirm-empty-pending --confirm-unpriced-unavailable --write
+python scripts/prefill_industrial_gt.py --metadata-only --confirm-empty-pending --confirm-unpriced-unavailable --write
 ```
 
 `--confirm-empty-pending` устанавливает `is_product = 0`, `annotation_status = done`

@@ -1,0 +1,32 @@
+{
+  "status": "READY_FOR_USER_RUN",
+  "date": "2026-10-02",
+  "model": "qwen/qwen3.8-omni-flash",
+  "provider": "RouterAI",
+  "inference_calls_sent": 0,
+  "live_paid_endpoint_verified": false,
+  "offline_tests_passed": 11,
+  "notebook_schema_valid": true,
+  "planned_requests": 459,
+  "available_pages": {
+    "synthetic": 20,
+    "robustness": 200,
+    "industrial": 239
+  },
+  "determined_comparison_compatibility": {
+    "synthetic": "verified",
+    "robustness": "verified",
+    "industrial": "verified"
+  },
+  "sha256": {
+    "baseline_llm.ipynb": "39bcbdeb79ffaaeac2ea59ca0296a547d1e231e2e1d48290d4b6cebc31475991",
+    "scripts/run_llm_benchmark.py": "118de99c6b3c16d93f68b8c5c10ec4af68c752e8ea36e02da3372d9f85480895",
+    "scripts/llm_baseline_runtime.py": "0732625b229549f78dc75ee0a953f565333cb2fa54e1c14e5eb8eaf6337106ea",
+    "scripts/llm_baseline_analysis.py": "266c3678cd013a3e54a8f304fd40dd2a01acc05567423ff1d3542362710d53e0",
+    "scripts/llm_baseline_main.py": "45a179da97d1362d40359de531c054b23cb96ac13a3f497e89ec4bef4bee3d11",
+    "tests/test_llm_benchmark.py": "b34fb64620e5c31236aaabde638feb33bbb2e693bcb3abada8d2a17f3445a7b0"
+  },
+  "run_command": ".\\.venv\\Scripts\\python.exe -X utf8 scripts/run_llm_benchmark.py --run",
+  "resume": "Repeat the same command and experiment ID; completed responses are reused.",
+  "repository_layout": "README.md; scripts/ and config/"
+}

@@ -1,0 +1,26 @@
+{
+  "repository": "D:\\Job_Codes\\PriceTracker",
+  "source_sha256": {
+    "services\\fast-renderer\\src\\blockDetection.ts": "bd50f022bc2f758231de1f7db7e97a72d2ff24c14b58b2b5d78cd1fbf11fc50b",
+    "services\\fast-renderer\\src\\candidates.ts": "c114eede4b24dd81fa9449616e53c2a174310faacfe11c03435c35f3b154e9ba",
+    "services\\fast-renderer\\src\\contracts.ts": "334772d2ace3ff198e60869e647d0dfe57999646a4643dfcc8cca04ec839b404",
+    "services\\fast-renderer\\src\\extractor.test.ts": "1453094079f5c039b3253ff61c0d610c5ba8359300ca4494e0d40415db6aab95",
+    "services\\fast-renderer\\src\\extractor.ts": "5bcd6785fe96473604f91b88459caef9ba08e67d53a76b3f1b127bd7dfa1eadc",
+    "services\\fast-renderer\\src\\index.ts": "0122282edebe97f15182567da5f5c873c54e02543c9f7a9db716d538ceb2038d",
+    "services\\fast-renderer\\src\\logger.ts": "119c9246e94f5491f0993efd541b191e544c796328d6b1bb92282c725f8c02d0",
+    "services\\fast-renderer\\src\\onboarding.ts": "79c1c8b5b0509b2567df27ca521a9efdeaf985586a170cc10f54542313c6e909",
+    "services\\fast-renderer\\src\\profiles.ts": "ded275a1fb3ac78b267aaf440f4c287c483b9be7f8bab4940a573e3b98348701",
+    "services\\fast-renderer\\src\\queryRelevance.ts": "cabc22448e86c8ad5521d2801ac7bf20cd1117dc42ba63b2299ef121b7b35f3d",
+    "services\\fast-renderer\\src\\server.ts": "b886aeb9ba08fc993d1d6037fcf9b4f913e6babd9ffe9db3c3e2dd2d3e4fcc67",
+    "services\\fast-renderer\\src\\utils.ts": "3c5f03f8bd88d9c1c73cf32c1ec3727463d3d98f415cdd1d68cf583ec1912fea",
+    "core\\sources\\search_engine.py": "7c8bfb62d9252a1c28b8e5f16f215935236976ece4a7931aaf42c880e6397e65",
+    "core\\extraction\\custom.py": "d9a1752b6770e224c35070538e87abbd08a68785ec8dd3fbb9c68429ebb55e10",
+    "core\\extraction\\product_card_fields.py": "55cec79349ac35cc23f543d155ee5497cbdd9aaa112cd6761af9c034b78f524d"
+  },
+  "reference_sha256": "9c4438a09602a10eeb5c3dcf4ae0844ab2fd98f07439cb8eb7ced983d60cd912",
+  "replay_inputs_sha256": "fa7d2c1ca4d1888962495bfc9710946d14b7ab185299b2677626bd81bb33590f",
+  "scope": "offline saved HTML; built-in supplier profiles; no persisted source selectors; no browser or LLM",
+  "no_query_variant": "original_fast: query omitted to evaluate all GT products on each saved page",
+  "query_variant": "original_fast_query: the original query filter applied to the same extracted rows",
+  "limit": 500
+}

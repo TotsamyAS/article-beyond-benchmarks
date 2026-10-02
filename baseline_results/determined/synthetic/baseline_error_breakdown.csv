@@ -1,0 +1,3 @@
+﻿dataset,variant,source,error_type,count
+synthetic,original_fast,synthetic-shop.local,missing_entity,40
+synthetic,original_fast_query,synthetic-shop.local,missing_entity,40

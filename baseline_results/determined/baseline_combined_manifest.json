@@ -1,0 +1,20 @@
+{
+  "aggregation_run_id": "20261002T161451Z-d2eb76ee",
+  "datasets": [
+    {
+      "dataset": "synthetic",
+      "status": "computed",
+      "benchmark_run_id": "20261002T161451Z-d2eb76ee"
+    },
+    {
+      "dataset": "robustness",
+      "status": "computed",
+      "benchmark_run_id": "20261002T161451Z-d2eb76ee"
+    },
+    {
+      "dataset": "industrial",
+      "status": "computed",
+      "benchmark_run_id": "20261002T161451Z-d2eb76ee"
+    }
+  ]
+}

@@ -3,3 +3,6 @@ __pycache__/
 .backup/
 .venv/
 .env
+.benchmark_runtime/
+.ipynb_checkpoints/
+archive/

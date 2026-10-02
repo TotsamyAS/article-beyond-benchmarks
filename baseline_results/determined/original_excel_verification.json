@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "workbook": "D:\\Pet_Codes\\science\\article-price-tracker\\baseline_results\\determined\\industrial\\baseline_review.xlsx",
+  "sha256": "9ac1c3c8edef3cc470f65d66ec2969d1d280110befe2d06f1a6d7f67623a106d",
+  "full_result_rows": 13111,
+  "comparison_gt_rows": 6317,
+  "original_modes": 2,
+  "names_prices_and_entity_identity_equal_csv": true
+}

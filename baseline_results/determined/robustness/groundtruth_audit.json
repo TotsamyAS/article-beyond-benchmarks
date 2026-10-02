@@ -1,0 +1,25 @@
+{
+  "reference_rows": 1000,
+  "manifest_pages": 200,
+  "available_manifest_pages": 200,
+  "annotated_pages": 200,
+  "unannotated_manifest_pages": 0,
+  "reference_pages_not_in_html_dir": 0,
+  "positive_entities": 1000,
+  "negative_or_empty_rows": 0,
+  "positive_missing_name_gt": 0,
+  "positive_missing_price_gt": 0,
+  "positive_confirmed_absent_price_gt": 0,
+  "positive_unannotated_price_gt": 0,
+  "positive_missing_product_url_gt": 0,
+  "duplicate_positive_page_url_keys": 0,
+  "missing_html_files": [],
+  "html_hash_mismatches": [],
+  "excluded_gt_pages": 0,
+  "annotation_policy": "labeled",
+  "annotation_status_counts": {
+    "": 1000
+  },
+  "ready_for_available_pages": true,
+  "paper_ready_closed_world": true
+}
