@@ -1,0 +1,2 @@
+﻿benchmark_run_id,dataset,variant,n_pages,n,n_priced,n_price_absent,n_price_unannotated,entity_TP,entity_FP,entity_FN,entity_P,entity_R,entity_F1,unexpected_price_FP,name_TP,name_FP,name_FN,name_P,name_R,name_F1,price_TP,price_FP,price_FN,price_P,price_R,price_F1
+20261003T183020Z-b6869124,industrial,llm_full_html,239,6317,6157,160,0,5970,73,347,0.9879199073307959,0.9450688618014881,0.9660194174757282,0,5650,393,667,0.9349660764520933,0.8944119043849929,0.9142394822006471,5686,195,471,0.9668423737459616,0.9235017053759949,0.9446751952151522

@@ -29,6 +29,9 @@ def csv_bytes(frame: pd.DataFrame) -> bytes:
 
 
 def recovery_plan(root: Path) -> tuple[dict[str, bytes], dict, dict[str, bytes]]:
+    config_path = root / 'config.json'
+    if config_path.is_file() and 'synthetic-v2-12to30' in config_path.read_text(encoding='utf-8-sig'):
+        raise ValueError('This is synthetic v2. Verify/regenerate with scripts/generate_synthetic_dataset.py instead.')
     snapshot = {p.relative_to(root).as_posix(): p.read_bytes() for p in sorted(root.rglob("*")) if p.is_file()}
     variants, manifests, configs, summaries, readmes = [], [], [], [], []
     by_hash = defaultdict(list)

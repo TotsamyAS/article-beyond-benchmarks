@@ -1,20 +1,22 @@
 {
-  "aggregation_run_id": "20261002T161451Z-d2eb76ee",
+  "aggregation_run_id": "20261003T090603Z-d84a171c",
   "datasets": [
     {
       "dataset": "synthetic",
       "status": "computed",
-      "benchmark_run_id": "20261002T161451Z-d2eb76ee"
+      "benchmark_run_id": "20261003T090603Z-d84a171c"
     },
     {
       "dataset": "robustness",
       "status": "computed",
-      "benchmark_run_id": "20261002T161451Z-d2eb76ee"
+      "benchmark_run_id": "20261003T090603Z-d84a171c"
     },
     {
       "dataset": "industrial",
-      "status": "computed",
-      "benchmark_run_id": "20261002T161451Z-d2eb76ee"
+      "status": "reused",
+      "benchmark_run_id": "20261002T161451Z-d2eb76ee",
+      "reference_sha256": "9c4438a09602a10eeb5c3dcf4ae0844ab2fd98f07439cb8eb7ced983d60cd912",
+      "run_metadata": "D:\\Pet_Codes\\science\\article-price-tracker\\baseline_results\\determined\\industrial\\benchmark_run.json"
     }
   ]
 }

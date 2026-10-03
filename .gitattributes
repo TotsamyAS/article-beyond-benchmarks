@@ -1,0 +1,4 @@
+# Generation fingerprints use exact bytes on Windows and Unix.
+synthetic/** text eol=lf
+config/synthetic_seed/** text eol=lf
+scripts/generate_synthetic_dataset.py text eol=lf

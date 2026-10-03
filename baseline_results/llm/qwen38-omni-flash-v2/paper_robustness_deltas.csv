@@ -1,0 +1,7 @@
+﻿variant,comparison,delta_F1,note
+llm_full_html,synthetic_to_industrial,0.0727800118036862,aggregate required-field macro F1; see per-page IDs and mutation columns for paired analysis
+llm_full_html,synthetic_to_robustness,7.936507936501247e-05,aggregate required-field macro F1; see per-page IDs and mutation columns for paired analysis
+original_fast,synthetic_to_industrial,-0.16857887811256544,aggregate required-field macro F1; see per-page IDs and mutation columns for paired analysis
+original_fast,synthetic_to_robustness,0.023885350318471277,aggregate required-field macro F1; see per-page IDs and mutation columns for paired analysis
+original_fast_query,synthetic_to_industrial,0.11982820709878705,aggregate required-field macro F1; see per-page IDs and mutation columns for paired analysis
+original_fast_query,synthetic_to_robustness,0.023885350318471277,aggregate required-field macro F1; see per-page IDs and mutation columns for paired analysis

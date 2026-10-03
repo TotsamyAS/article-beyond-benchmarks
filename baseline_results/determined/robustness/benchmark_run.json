@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "benchmark_run_id": "20261002T161451Z-d2eb76ee",
+  "benchmark_run_id": "20261003T090603Z-d84a171c",
   "dataset": "robustness",
-  "created_at_utc": "2026-10-02T16:18:42.491014+00:00",
+  "created_at_utc": "2026-10-03T09:17:00.875472+00:00",
   "reference_file": "D:\\Pet_Codes\\science\\article-price-tracker\\synthetic\\robustness_ground_truth.csv",
-  "reference_sha256": "37faa8acf7a0701c4ff43864ffd60e6130dec3836252d0957386aa62b22d6fdb",
+  "reference_sha256": "698571d4395a3cb009fc123e39a784ecbf3b32ad1cfc9bd09ab25b3b315004b2",
   "annotation_policy": "labeled",
   "industrial_zero_means_absent_price": false,
   "variants": [
@@ -15,8 +15,8 @@
   "price_relative_tolerance": 0.01,
   "url_policy": "lowercase; strip query, fragment, trailing slash and www host prefix",
   "manifest_selection": "Pages",
-  "manifest_sha256": "93500a3f6f90d9db7d60d0c5d9480c2bfff06c5f7c98372482b9f2030da7e1fd",
-  "raw_predictions_sha256": "5eff539af0e34efd7e9beda08a18bc28e1c7caa04930fcd8fc8f479c0d720588",
+  "manifest_sha256": "40cec1e4e2b3d408091781086713184f46aca1d7031b48462a020ff62513dba2",
+  "raw_predictions_sha256": "33a1242d2e62f641683b2b6b37141d9ff2126d6a2c4248ada16dffb818ad64bd",
   "pandas_version": "3.0.6",
   "python_version": "3.13.13",
   "parser_contract": {
@@ -74,7 +74,7 @@
     "limit": 500,
     "scope": "saved HTML; original DOM/JSON parsers and built-in supplier profiles; optional original query filter",
     "node_version": "v24.6.0",
-    "input_fingerprint": "5623d1615d27f701101cb4d935bfdc0a655109e66e3499bd403b8e70fd6282f3",
+    "input_fingerprint": "a3f089c442560e83427b513262e9f0f039ae3cf7f267753c5cf06ef89be84071",
     "resumed_pages": 0,
     "parser_contract": {
       "bundle_sha256": "6b21ed61b43b07f1e311012672cf932a1247d016ebe79083c03158cc4cf4e8ff",
@@ -91,64 +91,64 @@
   "files": {
     "manifest": {
       "file": "html_manifest.csv",
-      "sha256": "93500a3f6f90d9db7d60d0c5d9480c2bfff06c5f7c98372482b9f2030da7e1fd"
+      "sha256": "40cec1e4e2b3d408091781086713184f46aca1d7031b48462a020ff62513dba2"
     },
     "raw_predictions": {
       "file": "baseline_raw_predictions.csv",
-      "sha256": "5eff539af0e34efd7e9beda08a18bc28e1c7caa04930fcd8fc8f479c0d720588"
+      "sha256": "33a1242d2e62f641683b2b6b37141d9ff2126d6a2c4248ada16dffb818ad64bd"
     },
     "groundtruth_loaded": {
       "file": "groundtruth_loaded.csv",
-      "sha256": "2fe684f3a2da9f3baf6aec5a20c8652c76d157fdffad305a45ed49678fdf1935"
+      "sha256": "c1d77e6821e7470c1a73844e0dad21e6be12a9c710ce0ad4188926349bdf9f5c"
     },
     "audit": {
       "file": "groundtruth_audit.json",
-      "sha256": "9dc2c0034f661716e7a0d91f965ea10c8d0c4d09259c54a5976b34b01b3812e8"
+      "sha256": "4777e6d3170db4a72607f0a020c0c4b41aabe9edd2ce0752db1b8cdd5d46e86c"
     },
     "predictions": {
       "file": "baseline_predictions.csv",
-      "sha256": "106ffb268ccd5c09656bd8548d23b5eb12bbd00510a86c1e2f9f559e31f7fc0a"
+      "sha256": "0ad6b4fa7980255e822024046c2e9a4c4d2347bdceff6d821c39748672c35d35"
     },
     "metrics": {
       "file": "baseline_metrics.csv",
-      "sha256": "1fab4b4d9e864c8e5c0629a26dd2996c09c90f50c4b58094780b903acb62fbff"
+      "sha256": "873688eba8d5f41cb1b29a87df6c5df3cb24957f3118d85ad460403768fe466d"
     },
     "original_responses": {
       "file": "original_parser_responses.jsonl",
-      "sha256": "e398436bae0214e7d20d8fc121f65c9161ad158052cdf6655d0c5a6dd911e649"
+      "sha256": "940a34fc40bb339dbd63c5d9de24bc29af22d45423ede7b465b192703e9048d1"
     },
     "entity_analytics": {
       "file": "baseline_entity_analytics.csv",
-      "sha256": "b4c7a4207b227ed0dea4299e4cc3c2e4bb2db2f5eb422d911ff5feb6bca9d8d6"
+      "sha256": "67a33fd8c00fb6e4295c9ac49ba5a2935132687b02f0a388d16e5085f7e8742f"
     },
     "page_results": {
       "file": "baseline_page_results.csv",
-      "sha256": "c442e046fa9d650dc8018d18623c3534e33f6039896d4f376a91ef7cd3e41df5"
+      "sha256": "52d9356d0750774f2ad22211f962d58714c8547986632dc1eae3a979c73ab128"
     },
     "group_metrics": {
       "file": "baseline_group_metrics.csv",
-      "sha256": "3bc4b4afc97d3492e62b603e511d3d3df3b530c53bdfcd612bb941d590994032"
+      "sha256": "e4b30488c808608f09a3dbb021fc20c69aa6e8ecdcbefb95bd99a3050b5f861a"
     },
     "error_breakdown": {
       "file": "baseline_error_breakdown.csv",
-      "sha256": "b55d1612997bf2e08733609d1877787f7fd7fc4b98b914c5fe3d3bdb7c52c3b3"
+      "sha256": "05027e233a37c19d16028dec1fdbf2443489d86f06778608292726fa8e275239"
     },
     "error_distributions": {
       "file": "baseline_error_distributions.csv",
-      "sha256": "e6fed9f259b29256b55179b7b360cfb6d837e0857bc19babe0d1cb9b544a3505"
+      "sha256": "26d023d77dee1cf4d32fcb4b16ad85dd70740130a0c2c37bf7102575b85e1cb8"
     },
     "extraction_log": {
       "file": "baseline_extraction_log.csv",
-      "sha256": "1b8bbd21afa9302ea39e0f7d1175836e9b8349577704637847f7da29922cc17b"
+      "sha256": "aa59752b20a982e928a8b540a5bc3aec47c1df6eae8fccaf3c8fbcebdff943e3"
     },
     "analysis_profile": {
       "file": "baseline_analysis_profile.json",
-      "sha256": "3c6d58ef1517dc79d1588ee0ae0e082d82b6d97715d869524cf66758adc74d66"
+      "sha256": "4338fae16be78812e64b35e5ac968945e480b493d0b40d2c962479e562c99604"
     },
     "review_excel": {
       "file": "baseline_review.xlsx",
-      "sha256": "006306aafe85d5af23defad10db3a1dd8b1b9e3b99bcea8bb6b0fc86db88dba9"
+      "sha256": "fab2fac3f46d2a6fe4f1e51d41a353e1f8d2a6fef887796cb4a5d52d47a44c6c"
     }
   },
-  "notebook_sha256": "9b8d728e3854cfe302e85cd3509185a1f050a5bc5de4b56bc1c0d4116f57e498"
+  "notebook_sha256": "2b70c87f6efcc43b82a4f1f38aa24471186a4a559747907c07e800bf635c2c1d"
 }

@@ -220,7 +220,7 @@ class BenchmarkRegressionTests(unittest.TestCase):
             pd.DataFrame([dict(page_id="empty", html_file="empty.html", is_product=0)]).to_csv(reference, index=False)
             configs[dataset] = dict(root=folder, html_dir=html, reference_file=reference)
         notebook = json.loads((ROOT / "baseline_determined.ipynb").read_text(encoding="utf-8"))
-        with patch.dict(self.ns, DATASETS=configs, display=lambda *args: None):
+        with patch.dict(self.ns, DATASETS=configs, RUN_DATASETS=None, display=lambda *args: None):
             with contextlib.redirect_stdout(io.StringIO()):
                 exec(compile("".join(notebook["cells"][20]["source"]), "main_cell", "exec"), self.ns)
             output = self.ns["OUTPUT_DIR"]

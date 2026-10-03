@@ -11,6 +11,7 @@ def build():
     sources = {i: ''.join(cell['source']) for i, cell in enumerate(original['cells'])}
     scripts = [ROOT / 'scripts' / name for name in ['llm_baseline_runtime.py', 'llm_baseline_analysis.py', 'llm_baseline_main.py']]
     implementations = [p.read_text(encoding='utf-8') for p in scripts]
+    reporting = (ROOT / 'scripts/benchmark_reporting.py').read_text(encoding='utf-8')
     model = json.loads((ROOT / 'config/llm_model_snapshot.json').read_text(encoding='utf-8'))
     shared = {str(i): hashlib.sha256(sources[i].encode()).hexdigest() for i in [6, 8, 14, 16]}
     config = sources[4].split('# Exact original parser modes')[0]
@@ -18,7 +19,7 @@ def build():
     config = config.replace('# None runs all datasets. To rerun only the corrected synthetic corpus use:\n# RUN_DATASETS = ("synthetic", "robustness")\n# Other datasets\' verified saved results are retained in the combined CSVs.', '# None runs all three datasets. Or set ("industrial",).')
     config += '''
 # A stable experiment name resumes saved responses. Use a new name for an independent repetition.
-EXPERIMENT_ID = "qwen38-omni-flash-v1"
+EXPERIMENT_ID = "qwen38-omni-flash-synthetic-v2"
 RUN_MODE = "plan"  # "plan": offline audit; "run": paid API calls; "replay": saved responses only
 PAGE_LIMIT = None  # Small integer for a smoke test; use a separate EXPERIMENT_ID for it.
 RETRY_ERRORS = False  # Resume normally skips completed errors; True explicitly retries those pages.
@@ -118,6 +119,7 @@ RUB estimates use the saved RouterAI model-pricing snapshot and are not an invoi
 ''')
     add('code', implementations[1], 'definitions')
     add('code', implementations[2], 'definitions')
+    add('code', 'REPORTING_CODE_SHA256 = ' + repr(hashlib.sha256(reporting.encode()).hexdigest()) + '\n' + reporting, 'definitions')
     add('markdown', '''## Run / resume / replay
 
 Run this cell after reviewing configuration. First use the offline plan; for paid inference set `RUN_MODE="run"`.

@@ -1,0 +1,122 @@
+[
+  {
+    "page_id": "syn-0001",
+    "category": "construction_instruments",
+    "base_template": "jsonld_cards",
+    "n_entities": 12
+  },
+  {
+    "page_id": "syn-0002",
+    "category": "construction_instruments",
+    "base_template": "microdata_cards",
+    "n_entities": 30
+  },
+  {
+    "page_id": "syn-0003",
+    "category": "construction_instruments",
+    "base_template": "plain_cards",
+    "n_entities": 16
+  },
+  {
+    "page_id": "syn-0004",
+    "category": "construction_instruments",
+    "base_template": "embedded_state",
+    "n_entities": 26
+  },
+  {
+    "page_id": "syn-0005",
+    "category": "construction_instruments",
+    "base_template": "detail_grid",
+    "n_entities": 14
+  },
+  {
+    "page_id": "syn-0006",
+    "category": "construction_instruments",
+    "base_template": "table_listing",
+    "n_entities": 28
+  },
+  {
+    "page_id": "syn-0007",
+    "category": "construction_instruments",
+    "base_template": "semantic_articles",
+    "n_entities": 18
+  },
+  {
+    "page_id": "syn-0008",
+    "category": "construction_instruments",
+    "base_template": "data_attrs",
+    "n_entities": 24
+  },
+  {
+    "page_id": "syn-0009",
+    "category": "construction_instruments",
+    "base_template": "nested_cards",
+    "n_entities": 20
+  },
+  {
+    "page_id": "syn-0010",
+    "category": "construction_instruments",
+    "base_template": "mixed_markup",
+    "n_entities": 22
+  },
+  {
+    "page_id": "syn-0011",
+    "category": "stationery",
+    "base_template": "jsonld_cards",
+    "n_entities": 30
+  },
+  {
+    "page_id": "syn-0012",
+    "category": "stationery",
+    "base_template": "microdata_cards",
+    "n_entities": 12
+  },
+  {
+    "page_id": "syn-0013",
+    "category": "stationery",
+    "base_template": "plain_cards",
+    "n_entities": 26
+  },
+  {
+    "page_id": "syn-0014",
+    "category": "stationery",
+    "base_template": "embedded_state",
+    "n_entities": 16
+  },
+  {
+    "page_id": "syn-0015",
+    "category": "electronics",
+    "base_template": "detail_grid",
+    "n_entities": 28
+  },
+  {
+    "page_id": "syn-0016",
+    "category": "electronics",
+    "base_template": "table_listing",
+    "n_entities": 14
+  },
+  {
+    "page_id": "syn-0017",
+    "category": "electronics",
+    "base_template": "semantic_articles",
+    "n_entities": 24
+  },
+  {
+    "page_id": "syn-0018",
+    "category": "electronics",
+    "base_template": "data_attrs",
+    "n_entities": 18
+  },
+  {
+    "page_id": "syn-0019",
+    "category": "other",
+    "base_template": "nested_cards",
+    "n_entities": 22
+  },
+  {
+    "page_id": "syn-0020",
+    "category": "other",
+    "base_template": "mixed_markup",
+    "n_entities": 20
+  }
+]

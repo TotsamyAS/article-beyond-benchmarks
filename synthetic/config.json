@@ -1,7 +1,33 @@
 {
+  "dataset_version": "synthetic-v2-12to30",
   "seed": 20260928,
   "n_clean_pages": 20,
-  "entities_per_page": 5,
+  "entities_per_page": {
+    "min": 12,
+    "max": 30,
+    "by_page": {
+      "syn-0001": 12,
+      "syn-0002": 30,
+      "syn-0003": 16,
+      "syn-0004": 26,
+      "syn-0005": 14,
+      "syn-0006": 28,
+      "syn-0007": 18,
+      "syn-0008": 24,
+      "syn-0009": 20,
+      "syn-0010": 22,
+      "syn-0011": 30,
+      "syn-0012": 12,
+      "syn-0013": 26,
+      "syn-0014": 16,
+      "syn-0015": 28,
+      "syn-0016": 14,
+      "syn-0017": 24,
+      "syn-0018": 18,
+      "syn-0019": 22,
+      "syn-0020": 20
+    }
+  },
   "category_distribution": {
     "construction_instruments": 0.5,
     "stationery": 0.2,
@@ -19,5 +45,12 @@
     "wrapper_insert": 3,
     "field_reorder": 2,
     "subtree_relocate": 2
-  }
+  },
+  "seed_files_sha256": {
+    "catalog.csv": "9b2705d725da950b815579cf26706687ebc3ebaaacafc2bf71eac928eea96c43",
+    "pages.json": "6000c51839ab3d640ec850cadba355814f1d21d56dbfca840f5fa5a4e361a7c7",
+    "templates.json": "b9a0a1656a4ed41b2f9355d7892e41d8f80da58d471a50e27aba23625612a514"
+  },
+  "generator": "scripts/generate_synthetic_dataset.py",
+  "generator_sha256": "48b3ea95b6196ca9442e8ce2887d5f698b3ca712288c144666fef3e176cb1635"
 }

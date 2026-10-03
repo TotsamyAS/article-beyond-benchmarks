@@ -1,0 +1,22 @@
+{
+  "status": "READY_FOR_USER_RERUN",
+  "dataset_version": "synthetic-v2-12to30",
+  "clean_pages": 20,
+  "clean_entities": 420,
+  "robustness_pages": 200,
+  "robustness_entities": 4200,
+  "all_html_gt_pairs_checked": 220,
+  "original_products_preserved": 100,
+  "tests_passed": 62,
+  "tests_skipped": 1,
+  "notebooks_valid": true,
+  "paid_llm_requests_issued": 0,
+  "industrial_unchanged": true,
+  "previous_determined_outputs_restored": true,
+  "determined_attempt": "Original parser processed all 220 pages without errors. Clean v2 name/price F1 was 0.75 for both modes. Full robustness evaluation was stopped because it was long-running; all determined report files restored to pre-run bytes.",
+  "next_steps": [
+    ".\\.venv\\Scripts\\python.exe -X utf8 scripts/run_determined_benchmark.py --datasets synthetic robustness",
+    ".\\.venv\\Scripts\\python.exe -X utf8 scripts/run_llm_benchmark.py --run --datasets synthetic robustness --experiment qwen38-omni-flash-synthetic-v2"
+  ],
+  "note": "Existing determined CSV/Excel contain v1 synthetic results until the first command completes. New LLM plan is v2; no model outputs exist for it yet."
+}

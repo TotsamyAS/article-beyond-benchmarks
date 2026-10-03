@@ -32,7 +32,7 @@ def main():
     os.chdir(ROOT)
     ns = load_notebook()
     ns.update(RUN_MODE='run' if args.run else 'replay' if args.replay else 'plan',
-              RUN_DATASETS=tuple(args.datasets) if args.datasets else None,
+              RUN_DATASETS=tuple(args.datasets) if args.datasets else ns.get('RUN_DATASETS'),
               RETRY_ERRORS=args.retry_errors, RETRY_UNCERTAIN=args.retry_uncertain)
     if args.experiment:
         ns['EXPERIMENT_ID'] = args.experiment

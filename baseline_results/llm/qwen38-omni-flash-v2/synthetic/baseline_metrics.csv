@@ -1,0 +1,2 @@
+﻿benchmark_run_id,dataset,variant,n_pages,n,n_priced,n_price_absent,n_price_unannotated,entity_TP,entity_FP,entity_FN,entity_P,entity_R,entity_F1,unexpected_price_FP,name_TP,name_FP,name_FN,name_P,name_R,name_F1,price_TP,price_FP,price_FN,price_P,price_R,price_F1
+20261003T183020Z-b6869124,synthetic,llm_full_html,20,420,420,0,0,420,0,0,1.0,1.0,1.0,0,420,0,0,1.0,1.0,1.0,420,0,0,1.0,1.0,1.0

@@ -1,20 +1,38 @@
 {
+  "dataset_version": "synthetic-v2-12to30",
   "seed": 20260928,
   "clean_pages": 20,
-  "clean_entities": 100,
+  "clean_entities": 420,
   "robustness_pages": 200,
-  "robustness_entities": 1000,
+  "robustness_entities": 4200,
+  "products_per_page_counts": {
+    "12": 2,
+    "14": 2,
+    "16": 2,
+    "18": 2,
+    "20": 2,
+    "22": 2,
+    "24": 2,
+    "26": 2,
+    "28": 2,
+    "30": 2
+  },
   "page_category_counts": {
     "construction_instruments": 10,
     "stationery": 4,
     "electronics": 4,
     "other": 2
   },
-  "page_category_shares": {
-    "construction_instruments": 0.5,
-    "stationery": 0.2,
-    "electronics": 0.2,
-    "other": 0.1
+  "entity_category_counts": {
+    "construction_instruments": 210,
+    "stationery": 84,
+    "electronics": 84,
+    "other": 42
+  },
+  "other_subcategory_counts": {
+    "household_chemicals": 12,
+    "ppe": 12,
+    "containers": 18
   },
   "mutation_axis_counts": {
     "class_rename": 60,

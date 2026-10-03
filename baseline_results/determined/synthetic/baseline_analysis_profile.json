@@ -1,20 +1,20 @@
 {
-  "benchmark_run_id": "20261002T161451Z-d2eb76ee",
-  "gt_loaded_rows": 100,
-  "scored_gt_entities": 100,
+  "benchmark_run_id": "20261003T090603Z-d84a171c",
+  "gt_loaded_rows": 420,
+  "scored_gt_entities": 420,
   "price_description": {
-    "count": 100.0,
-    "mean": 8414.28,
-    "std": 10841.7372467178,
+    "count": 420.0,
+    "mean": 7626.0547619048,
+    "std": 10073.6589136564,
     "min": 89.0,
-    "10%": 207.0,
-    "25%": 1185.0,
-    "50%": 3930.5,
-    "75%": 12242.0,
-    "90%": 21805.0,
-    "95%": 36015.2,
-    "99%": 43503.0,
-    "max": 43800.0
+    "10%": 299.0,
+    "25%": 1204.5,
+    "50%": 4079.5,
+    "75%": 8608.0,
+    "90%": 18170.2,
+    "95%": 31527.4999999999,
+    "99%": 46344.78,
+    "max": 48618.0
   },
   "scored_page_statuses": [
     {
@@ -44,29 +44,29 @@
     {
       "variant": "original_fast",
       "count": 20.0,
-      "mean": 36.9747,
-      "std": 53.4288246587,
-      "min": 6.4715,
-      "25%": 17.7844,
-      "50%": 23.0744,
-      "75%": 32.69035,
-      "max": 257.4163
+      "mean": 87.175425,
+      "std": 57.9662931892,
+      "min": 4.8139,
+      "25%": 48.807175,
+      "50%": 76.03395,
+      "75%": 109.3974,
+      "max": 224.2797
     },
     {
       "variant": "original_fast_query",
       "count": 20.0,
-      "mean": 37.023875,
-      "std": 53.4513759565,
-      "min": 6.4985,
-      "25%": 17.82915,
-      "50%": 23.1385,
-      "75%": 32.76055,
-      "max": 257.5622
+      "mean": 87.22655,
+      "std": 57.9777234525,
+      "min": 4.8303,
+      "25%": 48.842325,
+      "50%": 76.12735,
+      "75%": 109.444475,
+      "max": 224.3808
     }
   ],
   "tables": {
     "baseline_entity_analytics.csv": {
-      "rows": 200,
+      "rows": 840,
       "columns": [
         "benchmark_run_id",
         "result_id",
@@ -123,6 +123,8 @@
         "gt_meta__base_entity_id",
         "gt_meta__html_file",
         "gt_meta__mutation_axis",
+        "gt_meta__product_origin",
+        "gt_meta__dataset_version",
         "gt_meta__gt_id",
         "gt_meta__source",
         "gt_meta__run_id",
@@ -155,6 +157,7 @@
         "page_meta__base_template",
         "page_meta__benchmark_html_file",
         "page_meta__category",
+        "page_meta__dataset_version",
         "page_meta__mutation_axis",
         "page_meta__n_entities",
         "page_meta__page_id",
@@ -210,6 +213,7 @@
         "page_meta__base_template",
         "page_meta__benchmark_html_file",
         "page_meta__category",
+        "page_meta__dataset_version",
         "page_meta__mutation_axis",
         "page_meta__n_entities",
         "page_meta__page_id",

@@ -1,0 +1,6 @@
+﻿dataset,variant,field,n_gt_entities,n_annotated,coverage,TP,FP,FN,P,R,F1,scope
+robustness,llm_full_html,availability,4200,4200,1.0,4200,0,0,1.0,1.0,1.0,annotated GT entities only; blank means unknown; extras unscored
+robustness,llm_full_html,delivery_time,4200,4200,1.0,3780,0,420,1.0,0.9,0.9473684210526316,annotated GT entities only; blank means unknown; extras unscored
+robustness,llm_full_html,image_url,4200,0,0.0,0,0,0,,,,annotated GT entities only; blank means unknown; extras unscored
+robustness,llm_full_html,old_price,4200,0,0.0,0,0,0,,,,annotated GT entities only; blank means unknown; extras unscored
+robustness,llm_full_html,reviews_count,4200,0,0.0,0,0,0,,,,annotated GT entities only; blank means unknown; extras unscored

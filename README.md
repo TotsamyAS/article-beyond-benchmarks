@@ -69,8 +69,8 @@ recorded in its `run_status.json`; `plan/` files are input audits, not model res
 
 | Split | Page records | Available HTML | Positive GT entities |
 |---|---:|---:|---:|
-| Synthetic | 20 | 20 | 100 |
-| Robustness | 200 | 200 | 1,000 |
+| Synthetic v2 | 20 | 20 | 420 |
+| Robustness v2 | 200 | 200 | 4,200 |
 | Industrial | 240 | 239 | 6,317 |
 
 Industrial ground truth is in [`industrial/dind.xlsx`](industrial/dind.xlsx):
@@ -78,7 +78,12 @@ Industrial ground truth is in [`industrial/dind.xlsx`](industrial/dind.xlsx):
 HTML is retained in the manifest and excluded from scoring. Negative annotations
 represent pages with no products. Synthetic and robustness have separate CSV
 manifests and labels while sharing `synthetic/html/`; mutation/base identifiers
-support paired analysis.
+support paired analysis. Version `synthetic-v2-12to30` has 12–30 products per page;
+see [`synthetic/README.md`](synthetic/README.md) for regeneration and versioning.
+V1 outputs (100 / 1,000 entities) cannot be compared as the same corpus.
+Check each result's manifest/GT fingerprint to identify its dataset version. Run
+determined first so the LLM comparison workbook can use predictions against the
+same v2 labels. LLM progress and completion are recorded per experiment.
 
 Main evaluation uses page-scoped normalized product URL identity, name similarity
 threshold 0.85 and price tolerance ±1%. `www` and the bare domain are equivalent.
@@ -96,6 +101,9 @@ No GT labels are sent to the model. Additional GT/Pages columns are retained for
 classification and clustering joins: `(dataset, entity_id)` identifies a GT product,
 and `(dataset, page_id)` identifies a page. Unmatched predictions have no GT ID;
 `result_id`, `pred_id` and `benchmark_run_id` identify method/run-specific results.
+Across synthetic dataset versions, also join on `dataset_version`; page/entity IDs
+are intentionally retained for the original products. Analytics exports preserve
+the version, `product_origin` and page size as GT/page metadata columns.
 
 ## Reproduce
 
@@ -114,7 +122,8 @@ python -m pip install -r config/requirements-benchmark.lock.txt
 
 Select this environment as the notebook kernel. Open `baseline_determined.ipynb`
 and use **Restart Kernel → Run All** to perform fresh original-parser extraction.
-The notebook runs all three splits by default. Existing outputs are written to
+Both notebooks currently select only `synthetic` and `robustness` for the v2 rerun.
+Set `RUN_DATASETS=None` to run all three splits. Existing outputs are written to
 `baseline_results/determined/`; preserve an earlier run separately if needed.
 
 For LLM-only, first run the offline plan (no key or network required):
@@ -133,7 +142,8 @@ python scripts/run_llm_benchmark.py --run
 
 In Windows PowerShell without environment activation, use
 `.\.venv\Scripts\python.exe -X utf8 scripts/run_llm_benchmark.py --run`.
-Repeat the same command to resume completed responses. An independent repetition
+The default experiment is `qwen38-omni-flash-synthetic-v2`; old v1 responses stay
+in their original directory. Repeat the same command to resume completed responses. An independent repetition
 uses a new `--experiment` name. `--replay` rebuilds reports offline. In the notebook,
 set `RUN_MODE="run"` before **Run All**; its default `plan` mode sends no requests.
 
