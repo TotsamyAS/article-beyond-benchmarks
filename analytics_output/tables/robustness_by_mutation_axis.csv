@@ -1,0 +1,13 @@
+variant,page_meta__mutation_axis,entity_TP,entity_FP,entity_FN,entity_P,entity_R,entity_F1
+hybrid_original,class_rename,870,0,390,1.0,0.6904761904761905,0.8169014084507042
+hybrid_original,field_reorder,632,0,208,1.0,0.7523809523809524,0.8586956521739131
+hybrid_original,subtree_relocate,632,0,208,1.0,0.7523809523809524,0.8586956521739131
+hybrid_original,wrapper_insert,948,0,312,1.0,0.7523809523809524,0.8586956521739131
+llm_full_html,class_rename,1260,0,0,1.0,1.0,1.0
+llm_full_html,field_reorder,840,0,0,1.0,1.0,1.0
+llm_full_html,subtree_relocate,840,0,0,1.0,1.0,1.0
+llm_full_html,wrapper_insert,1260,0,0,1.0,1.0,1.0
+original_fast,class_rename,630,0,630,1.0,0.5,0.6666666666666666
+original_fast,field_reorder,504,0,336,1.0,0.6,0.7499999999999999
+original_fast,subtree_relocate,504,0,336,1.0,0.6,0.7499999999999999
+original_fast,wrapper_insert,756,0,504,1.0,0.6,0.7499999999999999

@@ -1,0 +1,4 @@
+dataset,variant_a,variant_b,shared_pages,mean_page_F1_delta,median_page_F1_delta,improved_page_fraction,worsened_page_fraction,ci95_low,ci95_high
+industrial,original_fast,hybrid_original,240,0.007991751741065967,0.0,0.05,0.004166666666666667,0.0016105826133120263,0.016254268759962092
+industrial,original_fast,llm_full_html,240,0.00821318988185077,0.0,0.2625,0.1125,-0.024892357164567086,0.04111482327133954
+industrial,hybrid_original,llm_full_html,240,0.00022143814078480576,0.0,0.25416666666666665,0.1125,-0.03096351909598942,0.029413254030350215

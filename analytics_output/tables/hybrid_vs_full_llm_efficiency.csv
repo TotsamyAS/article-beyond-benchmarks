@@ -1,0 +1,2 @@
+token_saving_fraction,cost_saving_fraction,full_llm_cost_usd,hybrid_cost_usd,rub_per_usd_experiment,industrial_F1_gap,industrial_recall_gap,industrial_precision_gap
+0.9441422753710466,0.9391662481165244,11.95078031212485,0.7270108043217287,83.3,-0.025570972566944183,-0.018838056039259143,-0.032810537432003906

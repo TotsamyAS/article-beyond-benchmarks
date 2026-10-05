@@ -1,0 +1,9 @@
+dataset,extraction_status,pages
+industrial,no_bounded_context,8
+industrial,ok,36
+industrial,partial_validation,195
+industrial,skipped,1
+robustness,ok,114
+robustness,partial_validation,86
+synthetic,ok,12
+synthetic,partial_validation,8

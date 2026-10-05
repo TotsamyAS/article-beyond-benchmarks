@@ -1,0 +1,4 @@
+dataset,pages,llm_attempts_sum,llm_attempts_mean,new_llm_attempts_sum,new_llm_attempts_mean,rejected_count_sum,rejected_count_mean,candidate_count_sum,candidate_count_mean,returned_count_sum,returned_count_mean,replay_cached_pages,replay_cached_rate
+industrial,240,164.0,0.6833333333333333,0.0,0.0,0.0,0.0,6090.0,25.375,6126.0,25.525,164,0.6833333333333333
+robustness,200,86.0,0.43,0.0,0.0,0.0,0.0,2394.0,11.97,3082.0,15.41,86,0.43
+synthetic,20,8.0,0.4,0.0,0.0,0.0,0.0,252.0,12.6,316.0,15.8,8,0.4

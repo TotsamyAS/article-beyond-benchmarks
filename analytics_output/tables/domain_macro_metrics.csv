@@ -1,0 +1,7 @@
+variant,development_group,domain_macro_F1,domain_median_F1,n_domains
+hybrid_original,tailored,0.9304442876053813,0.9992337164750957,21
+hybrid_original,untailored,0.6089299461123941,0.6089299461123941,2
+llm_full_html,tailored,0.771895543850189,0.9994327850255247,21
+llm_full_html,untailored,1.0,1.0,2
+original_fast,tailored,0.9266050631351868,0.9992337164750957,21
+original_fast,untailored,0.42840236686390537,0.42840236686390537,2

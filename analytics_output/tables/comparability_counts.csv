@@ -1,0 +1,10 @@
+dataset,variant,gt_entities,pages,sources
+industrial,original_fast,6317,240,25
+industrial,hybrid_original,6317,240,25
+industrial,llm_full_html,6317,240,25
+robustness,original_fast,4200,200,1
+robustness,hybrid_original,4200,200,1
+robustness,llm_full_html,4200,200,1
+synthetic,original_fast,420,20,1
+synthetic,hybrid_original,420,20,1
+synthetic,llm_full_html,420,20,1

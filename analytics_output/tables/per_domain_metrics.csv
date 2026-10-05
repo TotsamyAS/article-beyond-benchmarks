@@ -1,0 +1,70 @@
+variant,source,development_group,entity_TP,entity_FP,entity_FN,entity_P,entity_R,entity_F1,variant_label
+hybrid_original,bigam.ru,tailored,430,24,0,0.947136563876652,1.0,0.9728506787330317,Hybrid
+hybrid_original,chipdip.ru,tailored,151,0,0,1.0,1.0,1.0,Hybrid
+hybrid_original,citilink.ru,tailored,448,0,0,1.0,1.0,1.0,Hybrid
+hybrid_original,cnc.su,tailored,60,24,0,0.7142857142857143,1.0,0.8333333333333333,Hybrid
+hybrid_original,dns-shop.ru,tailored,737,0,54,1.0,0.93173198482933,0.9646596858638743,Hybrid
+hybrid_original,etm.ru,tailored,18,0,0,1.0,1.0,1.0,Hybrid
+hybrid_original,komus.ru,tailored,568,1,62,0.9982425307557118,0.9015873015873016,0.9474562135112594,Hybrid
+hybrid_original,labirint.ru,untailored,383,3,97,0.9922279792746114,0.7979166666666667,0.884526558891455,Hybrid
+hybrid_original,lemanapro.ru,tailored,540,0,0,1.0,1.0,1.0,Hybrid
+hybrid_original,market.yandex.ru,tailored,48,0,0,1.0,1.0,1.0,Hybrid
+hybrid_original,mvideo.ru,tailored,652,1,0,0.998468606431853,1.0,0.9992337164750957,Hybrid
+hybrid_original,oaopolimer.ru,tailored,119,7,7,0.9444444444444444,0.9444444444444444,0.9444444444444444,Hybrid
+hybrid_original,officemag.ru,tailored,102,0,18,1.0,0.85,0.9189189189189189,Hybrid
+hybrid_original,ozon.ru,tailored,882,0,0,1.0,1.0,1.0,Hybrid
+hybrid_original,petrovich.ru,tailored,40,0,0,1.0,1.0,1.0,Hybrid
+hybrid_original,rs24.ru,tailored,152,0,0,1.0,1.0,1.0,Hybrid
+hybrid_original,spb.tara.ru,tailored,57,0,3,1.0,0.95,0.9743589743589743,Hybrid
+hybrid_original,tara.ru,tailored,38,2,2,0.95,0.95,0.9500000000000001,Hybrid
+hybrid_original,vseinstrumenti.ru,tailored,40,0,0,1.0,1.0,1.0,Hybrid
+hybrid_original,wildberries.ru,untailored,8,1,31,0.8888888888888888,0.20512820512820512,0.3333333333333333,Hybrid
+hybrid_original,ximtek.ru,tailored,48,4,0,0.9230769230769231,1.0,0.9600000000000001,Hybrid
+hybrid_original,xn----7sbbnaebi2cxajxwo0b.xn--p1ai,tailored,314,0,0,1.0,1.0,1.0,Hybrid
+hybrid_original,спецодежда-тула.рф,tailored,16,208,192,0.07142857142857142,0.07692307692307693,0.07407407407407408,Hybrid
+llm_full_html,bigam.ru,tailored,280,0,150,1.0,0.6511627906976745,0.7887323943661972,Full-HTML LLM
+llm_full_html,chipdip.ru,tailored,151,0,0,1.0,1.0,1.0,Full-HTML LLM
+llm_full_html,citilink.ru,tailored,448,2,0,0.9955555555555555,1.0,0.9977728285077951,Full-HTML LLM
+llm_full_html,cnc.su,tailored,60,0,0,1.0,1.0,1.0,Full-HTML LLM
+llm_full_html,dns-shop.ru,tailored,791,0,0,1.0,1.0,1.0,Full-HTML LLM
+llm_full_html,etm.ru,tailored,18,30,0,0.375,1.0,0.5454545454545454,Full-HTML LLM
+llm_full_html,komus.ru,tailored,630,0,0,1.0,1.0,1.0,Full-HTML LLM
+llm_full_html,labirint.ru,untailored,480,0,0,1.0,1.0,1.0,Full-HTML LLM
+llm_full_html,lemanapro.ru,tailored,540,0,0,1.0,1.0,1.0,Full-HTML LLM
+llm_full_html,market.yandex.ru,tailored,0,0,48,0.0,0.0,0.0,Full-HTML LLM
+llm_full_html,mvideo.ru,tailored,652,1,0,0.998468606431853,1.0,0.9992337164750957,Full-HTML LLM
+llm_full_html,oaopolimer.ru,tailored,126,0,0,1.0,1.0,1.0,Full-HTML LLM
+llm_full_html,officemag.ru,tailored,96,0,24,1.0,0.8,0.888888888888889,Full-HTML LLM
+llm_full_html,ozon.ru,tailored,881,0,1,1.0,0.9988662131519275,0.9994327850255247,Full-HTML LLM
+llm_full_html,petrovich.ru,tailored,0,0,40,0.0,0.0,0.0,Full-HTML LLM
+llm_full_html,rs24.ru,tailored,152,0,0,1.0,1.0,1.0,Full-HTML LLM
+llm_full_html,spb.tara.ru,tailored,60,0,0,1.0,1.0,1.0,Full-HTML LLM
+llm_full_html,tara.ru,tailored,0,40,40,0.0,0.0,0.0,Full-HTML LLM
+llm_full_html,vseinstrumenti.ru,tailored,0,0,40,0.0,0.0,0.0,Full-HTML LLM
+llm_full_html,wildberries.ru,untailored,39,0,0,1.0,1.0,1.0,Full-HTML LLM
+llm_full_html,ximtek.ru,tailored,48,0,0,1.0,1.0,1.0,Full-HTML LLM
+llm_full_html,xn----7sbbnaebi2cxajxwo0b.xn--p1ai,tailored,314,0,0,1.0,1.0,1.0,Full-HTML LLM
+llm_full_html,спецодежда-тула.рф,tailored,204,0,4,1.0,0.9807692307692307,0.9902912621359222,Full-HTML LLM
+original_fast,bigam.ru,tailored,430,24,0,0.947136563876652,1.0,0.9728506787330317,Deterministic
+original_fast,chipdip.ru,tailored,151,0,0,1.0,1.0,1.0,Deterministic
+original_fast,citilink.ru,tailored,448,0,0,1.0,1.0,1.0,Deterministic
+original_fast,cnc.su,tailored,60,24,0,0.7142857142857143,1.0,0.8333333333333333,Deterministic
+original_fast,dns-shop.ru,tailored,737,0,54,1.0,0.93173198482933,0.9646596858638743,Deterministic
+original_fast,etm.ru,tailored,18,0,0,1.0,1.0,1.0,Deterministic
+original_fast,komus.ru,tailored,567,1,63,0.9982394366197183,0.9,0.9465776293823038,Deterministic
+original_fast,labirint.ru,untailored,362,3,118,0.9917808219178083,0.7541666666666667,0.8568047337278107,Deterministic
+original_fast,lemanapro.ru,tailored,540,0,0,1.0,1.0,1.0,Deterministic
+original_fast,market.yandex.ru,tailored,48,0,0,1.0,1.0,1.0,Deterministic
+original_fast,mvideo.ru,tailored,652,1,0,0.998468606431853,1.0,0.9992337164750957,Deterministic
+original_fast,oaopolimer.ru,tailored,119,7,7,0.9444444444444444,0.9444444444444444,0.9444444444444444,Deterministic
+original_fast,officemag.ru,tailored,96,0,24,1.0,0.8,0.888888888888889,Deterministic
+original_fast,ozon.ru,tailored,882,0,0,1.0,1.0,1.0,Deterministic
+original_fast,petrovich.ru,tailored,40,0,0,1.0,1.0,1.0,Deterministic
+original_fast,rs24.ru,tailored,152,0,0,1.0,1.0,1.0,Deterministic
+original_fast,spb.tara.ru,tailored,57,0,3,1.0,0.95,0.9743589743589743,Deterministic
+original_fast,tara.ru,tailored,38,0,2,1.0,0.95,0.9743589743589743,Deterministic
+original_fast,vseinstrumenti.ru,tailored,40,0,0,1.0,1.0,1.0,Deterministic
+original_fast,wildberries.ru,untailored,0,1,39,0.0,0.0,0.0,Deterministic
+original_fast,ximtek.ru,tailored,48,4,0,0.9230769230769231,1.0,0.9600000000000001,Deterministic
+original_fast,xn----7sbbnaebi2cxajxwo0b.xn--p1ai,tailored,314,0,0,1.0,1.0,1.0,Deterministic
+original_fast,спецодежда-тула.рф,tailored,0,208,208,0.0,0.0,0.0,Deterministic

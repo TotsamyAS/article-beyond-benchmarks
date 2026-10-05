@@ -1,0 +1,6 @@
+dataset,error_type,pages
+industrial,no_bounded_context,8
+industrial,partial_validation,195
+industrial,skipped,1
+robustness,partial_validation,86
+synthetic,partial_validation,8
